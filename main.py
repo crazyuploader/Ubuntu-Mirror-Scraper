@@ -1,5 +1,8 @@
+#!/usr/bin/env python3
+
 import csv
 import json
+import os
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
@@ -95,8 +98,11 @@ if table:
         print(f"Status: {mirror['status']}")
         print("-" * 40)
 
+    if not os.path.exists("data/mirrors"):
+        os.makedirs("data/mirrors")
+
     # Define the file path where the CSV will be saved
-    csv_file = "ubuntu_mirrors.csv"
+    csv_file = "data/mirrors/ubuntu_mirrors.csv"
 
     # Open the file in write mode and save the data
     with open(csv_file, mode='w', newline='') as file:
@@ -120,7 +126,7 @@ if table:
     print(f"Data saved to {csv_file}")
 
     # Define the file path where the JSON will be saved
-    json_file = "ubuntu_mirrors.json"
+    json_file = "data/mirrors/ubuntu_mirrors.json"
 
     # Open the file in write mode and save the data as JSON
     with open(json_file, mode='w') as file:
