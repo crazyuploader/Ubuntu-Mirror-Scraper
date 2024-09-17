@@ -25,7 +25,7 @@
             "mirror.sitsa.com.ar"
         ],
         "mirror_speed": "10 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Argentina",
@@ -40,7 +40,7 @@
             "ubuntu.zero.com.ar"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Argentina",
@@ -136,8 +136,8 @@
             "rsync://mirror.digitalpacific.com.au/ubuntu/archive/"
         ],
         "hostnames": [
-            "mirror.digitalpacific.com.au",
-            "ubuntu.mirror.digitalpacific.com.au"
+            "ubuntu.mirror.digitalpacific.com.au",
+            "mirror.digitalpacific.com.au"
         ],
         "mirror_speed": "20 Gbps",
         "status": "Up to date"
@@ -489,7 +489,7 @@
             "mirror.unix-solutions.be"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Bosnia and Herzegovina",
@@ -502,7 +502,7 @@
             "archive.ubuntu.mirror.ba"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Botswana",
@@ -818,7 +818,7 @@
             "mirror.it.ubc.ca"
         ],
         "mirror_speed": "10 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Canada",
@@ -846,8 +846,8 @@
             "rsync://muug.ca/ubuntu/"
         ],
         "hostnames": [
-            "ftp.muug.ca",
-            "muug.ca"
+            "muug.ca",
+            "ftp.muug.ca"
         ],
         "mirror_speed": "10 Gbps",
         "status": "Up to date"
@@ -923,7 +923,7 @@
             "mirror.ca-tr.kamatera.com"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Canada",
@@ -1362,7 +1362,7 @@
             "mirrors.zju.edu.cn"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "China",
@@ -1388,7 +1388,7 @@
             "mirrors.cqu.edu.cn"
         ],
         "mirror_speed": "100 Mbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Colombia",
@@ -1796,7 +1796,7 @@
             "ubuntu.lafibre.info"
         ],
         "mirror_speed": "10 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "France",
@@ -1923,8 +1923,8 @@
             "rsync://ftp.lip6.fr/Ubuntu/archive/"
         ],
         "hostnames": [
-            "ftp.lip6.fr",
-            "www-ftp.lip6.fr"
+            "www-ftp.lip6.fr",
+            "ftp.lip6.fr"
         ],
         "mirror_speed": "1 Gbps",
         "status": "Up to date"
@@ -2101,7 +2101,7 @@
             "ftp.stw-bonn.de"
         ],
         "mirror_speed": "10 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Germany",
@@ -2146,7 +2146,7 @@
             "mirror.ipb.de"
         ],
         "mirror_speed": "10 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Germany",
@@ -2519,7 +2519,7 @@
             "mirror.united-gameserver.de"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Germany",
@@ -3216,7 +3216,7 @@
             "mirror.cepatcloud.id"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Indonesia",
@@ -3439,7 +3439,7 @@
             "ir.ubuntu.sindad.cloud"
         ],
         "mirror_speed": "50 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Iran, Islamic Republic of",
@@ -3542,7 +3542,7 @@
             "archive.ubuntu.petiak.ir"
         ],
         "mirror_speed": "10 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Iran, Islamic Republic of",
@@ -3611,7 +3611,7 @@
             "mirror.faraso.org"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Iran, Islamic Republic of",
@@ -3773,7 +3773,7 @@
             "ubuntu.mirror.garr.it"
         ],
         "mirror_speed": "100 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Italy",
@@ -3872,7 +3872,7 @@
             "ftp.tsukuba.wide.ad.jp"
         ],
         "mirror_speed": "10 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Japan",
@@ -4003,8 +4003,8 @@
         ],
         "hostnames": [
             "ftp.kddilabs.jp",
-            "www.ftp.ne.jp",
-            "rsync.kddilabs.jp"
+            "rsync.kddilabs.jp",
+            "www.ftp.ne.jp"
         ],
         "mirror_speed": "100 Mbps",
         "status": "Up to date"
@@ -4052,7 +4052,7 @@
             "mirror.ps.kz"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Korea, Republic of",
@@ -4098,7 +4098,7 @@
             "mirror.kakao.com"
         ],
         "mirror_speed": "2 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Korea, Republic of",
@@ -4200,8 +4200,8 @@
             "rsync://rsync.yuki.net.uk/ubuntu/"
         ],
         "hostnames": [
-            "rsync.yuki.net.uk",
-            "mirror.yuki.net.uk"
+            "mirror.yuki.net.uk",
+            "rsync.yuki.net.uk"
         ],
         "mirror_speed": "1 Gbps",
         "status": "Up to date"
@@ -4216,8 +4216,8 @@
             "rsync://rsync.yuki.net.uk/ubuntu-ports/"
         ],
         "hostnames": [
-            "rsync.yuki.net.uk",
-            "mirror.yuki.net.uk"
+            "mirror.yuki.net.uk",
+            "rsync.yuki.net.uk"
         ],
         "mirror_speed": "1 Gbps",
         "status": "Up to date"
@@ -4360,7 +4360,7 @@
             "ftp.litnet.lt"
         ],
         "mirror_speed": "100 Mbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Luxembourg",
@@ -4372,8 +4372,8 @@
             "rsync://mirror.root.lu/Ubuntu/ubuntu/"
         ],
         "hostnames": [
-            "ubuntu.mirror.root.lu",
-            "mirror.root.lu"
+            "mirror.root.lu",
+            "ubuntu.mirror.root.lu"
         ],
         "mirror_speed": "1 Gbps",
         "status": "Up to date"
@@ -4445,7 +4445,7 @@
             "mirrors.gbnetwork.com"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Malaysia",
@@ -4460,7 +4460,7 @@
             "mirrors.ipserverone.com"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Malaysia",
@@ -4713,7 +4713,7 @@
             "ftp.snt.utwente.nl"
         ],
         "mirror_speed": "10 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Netherlands",
@@ -4984,7 +4984,7 @@
             "mirrors.evoluso.com"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Netherlands",
@@ -5038,8 +5038,8 @@
             "rsync://rsync.ubuntu.nautile.nc/ubuntu/"
         ],
         "hostnames": [
-            "rsync.ubuntu.nautile.nc",
-            "archive.ubuntu.nautile.nc"
+            "archive.ubuntu.nautile.nc",
+            "rsync.ubuntu.nautile.nc"
         ],
         "mirror_speed": "2 Gbps",
         "status": "Up to date"
@@ -5273,7 +5273,7 @@
             "mirror.chmuri.net"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Poland",
@@ -5377,7 +5377,7 @@
             "archive.ubuntumirror.dei.uc.pt"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Portugal",
@@ -5553,8 +5553,8 @@
         ],
         "hostnames": [
             "ubuntu.mirrors.linux.ro",
-            "ubuntu.mirror.linux.ro",
-            "ftp.linux.ro"
+            "ftp.linux.ro",
+            "ubuntu.mirror.linux.ro"
         ],
         "mirror_speed": "1 Gbps",
         "status": "Up to date"
@@ -5655,8 +5655,8 @@
             "rsync://ftp.corbina.net/ubuntu/"
         ],
         "hostnames": [
-            "mirror.corbina.net",
-            "ftp.corbina.net"
+            "ftp.corbina.net",
+            "mirror.corbina.net"
         ],
         "mirror_speed": "1 Gbps",
         "status": "Up to date"
@@ -5746,7 +5746,7 @@
             "mirror1.sox.rs"
         ],
         "mirror_speed": "50 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Serbia",
@@ -5987,7 +5987,7 @@
             "ubuntu.mirror.rain.co.za"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Spain",
@@ -5999,8 +5999,8 @@
             "rsync://rsync.udc.es/ubuntu/"
         ],
         "hostnames": [
-            "ftp.udc.es",
-            "rsync.udc.es"
+            "rsync.udc.es",
+            "ftp.udc.es"
         ],
         "mirror_speed": "2 Gbps",
         "status": "Up to date"
@@ -6073,8 +6073,8 @@
             "ftp://ftp.uvigo.es/ubuntu/"
         ],
         "hostnames": [
-            "ubuntu.uvigo.es",
-            "ftp.uvigo.es"
+            "ftp.uvigo.es",
+            "ubuntu.uvigo.es"
         ],
         "mirror_speed": "1 Gbps",
         "status": "Up to date"
@@ -6178,7 +6178,7 @@
             "ubuntu.mirror.su.se"
         ],
         "mirror_speed": "2 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Sweden",
@@ -6253,7 +6253,7 @@
             "mirror.solnet.ch"
         ],
         "mirror_speed": "10 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Switzerland",
@@ -6354,7 +6354,7 @@
             "ftp.tw.debian.org"
         ],
         "mirror_speed": "10 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Taiwan",
@@ -6367,8 +6367,8 @@
             "rsync://ftp.ubuntu-tw.org/ubuntu/"
         ],
         "hostnames": [
-            "ftp.ubuntu-tw.net",
-            "ftp.ubuntu-tw.org"
+            "ftp.ubuntu-tw.org",
+            "ftp.ubuntu-tw.net"
         ],
         "mirror_speed": "4 Gbps",
         "status": "Up to date"
@@ -6387,7 +6387,7 @@
             "mirror.ossplanet.net"
         ],
         "mirror_speed": "4 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Taiwan",
@@ -6414,7 +6414,7 @@
             "ftp.tku.edu.tw"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Taiwan",
@@ -6653,7 +6653,7 @@
             "mirror.sh.com.tr"
         ],
         "mirror_speed": "10 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Turkey",
@@ -6735,7 +6735,7 @@
             "mirror.renu.ac.ug"
         ],
         "mirror_speed": "100 Mbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Ukraine",
@@ -6779,7 +6779,7 @@
             "ubuntu.mirrors.omnilance.com"
         ],
         "mirror_speed": "2 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "Ukraine",
@@ -6839,7 +6839,7 @@
             "mirror.cov.ukservers.com"
         ],
         "mirror_speed": "10 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "United Kingdom",
@@ -6893,9 +6893,9 @@
             "rsync://rsync.mirrorservice.org/archive.ubuntu.com/ubuntu/"
         ],
         "hostnames": [
-            "ftp.mirrorservice.org",
+            "www.mirrorservice.org",
             "rsync.mirrorservice.org",
-            "www.mirrorservice.org"
+            "ftp.mirrorservice.org"
         ],
         "mirror_speed": "10 Gbps",
         "status": "Up to date"
@@ -7025,7 +7025,7 @@
             "mirror.vinehost.net"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "United Kingdom",
@@ -7054,7 +7054,7 @@
             "mirrors.gethosted.online"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "United Kingdom",
@@ -7155,7 +7155,7 @@
             "mirror.pilotfiber.com"
         ],
         "mirror_speed": "50 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "United States",
@@ -7267,7 +7267,7 @@
             "mirror.brightridge.com"
         ],
         "mirror_speed": "10 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "United States",
@@ -7598,7 +7598,7 @@
             "lug.mines.edu"
         ],
         "mirror_speed": "2 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "United States",
@@ -7726,7 +7726,7 @@
             "mirror.cc.vt.edu"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "United States",
@@ -7809,7 +7809,7 @@
             "mirror.metrocast.net"
         ],
         "mirror_speed": "1 Gbps",
-        "status": "Last update unknown"
+        "status": "Up to date"
     },
     {
         "country": "United States",
@@ -8285,8 +8285,8 @@
         ],
         "hostnames": [
             "www.gtlib.gatech.edu",
-            "rsync.gtlib.gatech.edu",
-            "ftp.gtlib.gatech.edu"
+            "ftp.gtlib.gatech.edu",
+            "rsync.gtlib.gatech.edu"
         ],
         "mirror_speed": "1 Gbps",
         "status": "Up to date"
