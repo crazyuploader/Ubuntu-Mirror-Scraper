@@ -13,3 +13,4 @@ pipenv run ./main.py
 ## Technologies Used
 
 - [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/)
+- [Requests](https://requests.readthedocs.io/en/latest/)
