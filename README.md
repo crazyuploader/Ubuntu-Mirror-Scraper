@@ -1,1 +1,1 @@
-# Ubuntu-Mirrors-Scraper
+# Ubuntu Mirror Scraper
