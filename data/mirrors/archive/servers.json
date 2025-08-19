@@ -151,8 +151,8 @@
                 "rsync://mirror.digitalpacific.com.au/ubuntu/archive/"
             ],
             "hostnames": [
-                "ubuntu.mirror.digitalpacific.com.au",
-                "mirror.digitalpacific.com.au"
+                "mirror.digitalpacific.com.au",
+                "ubuntu.mirror.digitalpacific.com.au"
             ],
             "mirror_speed": "20 Gbps",
             "status": "Up to date"
@@ -2177,8 +2177,8 @@
                 "rsync://ftp.lip6.fr/Ubuntu/archive/"
             ],
             "hostnames": [
-                "www-ftp.lip6.fr",
-                "ftp.lip6.fr"
+                "ftp.lip6.fr",
+                "www-ftp.lip6.fr"
             ],
             "mirror_speed": "1 Gbps",
             "status": "Last update unknown"
@@ -2599,8 +2599,8 @@
                 "rsync://rsync.uni-bayreuth.de/ubuntu-archive/"
             ],
             "hostnames": [
-                "ftp.uni-bayreuth.de",
-                "rsync.uni-bayreuth.de"
+                "rsync.uni-bayreuth.de",
+                "ftp.uni-bayreuth.de"
             ],
             "mirror_speed": "1 Gbps",
             "status": "Up to date"
@@ -2897,8 +2897,8 @@
                 "ftp://ftp.otenet.gr/ubuntu/"
             ],
             "hostnames": [
-                "ftp.otenet.gr",
-                "ubuntu.otenet.gr"
+                "ubuntu.otenet.gr",
+                "ftp.otenet.gr"
             ],
             "mirror_speed": "1 Gbps",
             "status": "Up to date"
@@ -4459,8 +4459,8 @@
                 "rsync://ubuntu.rsync.kr/ubuntu/"
             ],
             "hostnames": [
-                "ubuntu.rsync.kr",
-                "http.krfoss.org"
+                "http.krfoss.org",
+                "ubuntu.rsync.kr"
             ],
             "mirror_speed": "50 Gbps",
             "status": "Up to date"
@@ -4517,8 +4517,8 @@
                 "rsync://rsync.yuki.net.uk/ubuntu/"
             ],
             "hostnames": [
-                "rsync.yuki.net.uk",
-                "mirror.yuki.net.uk"
+                "mirror.yuki.net.uk",
+                "rsync.yuki.net.uk"
             ],
             "mirror_speed": "10 Gbps",
             "status": "Up to date"
@@ -4533,8 +4533,8 @@
                 "rsync://rsync.yuki.net.uk/ubuntu-ports/"
             ],
             "hostnames": [
-                "rsync.yuki.net.uk",
-                "mirror.yuki.net.uk"
+                "mirror.yuki.net.uk",
+                "rsync.yuki.net.uk"
             ],
             "mirror_speed": "10 Gbps",
             "status": "Up to date"
@@ -4592,8 +4592,8 @@
                 "rsync://rsync.mirror.zzunipark.com/ubuntu/"
             ],
             "hostnames": [
-                "mirror.zzunipark.com",
-                "rsync.mirror.zzunipark.com"
+                "rsync.mirror.zzunipark.com",
+                "mirror.zzunipark.com"
             ],
             "mirror_speed": "2 Gbps",
             "status": "Up to date"
@@ -4608,8 +4608,8 @@
                 "rsync://rsync.mirror.zzunipark.com/ubuntu-ports/"
             ],
             "hostnames": [
-                "mirror.zzunipark.com",
-                "rsync.mirror.zzunipark.com"
+                "rsync.mirror.zzunipark.com",
+                "mirror.zzunipark.com"
             ],
             "mirror_speed": "2 Gbps",
             "status": "Up to date"
@@ -5535,8 +5535,8 @@
                 "rsync://rsync.ubuntu.nautile.nc/ubuntu/"
             ],
             "hostnames": [
-                "rsync.ubuntu.nautile.nc",
-                "archive.ubuntu.nautile.nc"
+                "archive.ubuntu.nautile.nc",
+                "rsync.ubuntu.nautile.nc"
             ],
             "mirror_speed": "2 Gbps",
             "status": "Up to date"
@@ -6064,9 +6064,9 @@
                 "rsync://ubuntu.mirror.linux.ro/ubuntu-archive/"
             ],
             "hostnames": [
+                "ubuntu.mirrors.linux.ro",
                 "ftp.linux.ro",
-                "ubuntu.mirror.linux.ro",
-                "ubuntu.mirrors.linux.ro"
+                "ubuntu.mirror.linux.ro"
             ],
             "mirror_speed": "1 Gbps",
             "status": "Up to date"
@@ -6600,8 +6600,8 @@
                 "ftp://ftp.uvigo.es/ubuntu/"
             ],
             "hostnames": [
-                "ubuntu.uvigo.es",
-                "ftp.uvigo.es"
+                "ftp.uvigo.es",
+                "ubuntu.uvigo.es"
             ],
             "mirror_speed": "1 Gbps",
             "status": "Up to date"
@@ -6954,8 +6954,8 @@
                 "rsync://ftp.ubuntu-tw.org/ubuntu/"
             ],
             "hostnames": [
-                "ftp.ubuntu-tw.org",
-                "ftp.ubuntu-tw.net"
+                "ftp.ubuntu-tw.net",
+                "ftp.ubuntu-tw.org"
             ],
             "mirror_speed": "4 Gbps",
             "status": "Up to date"
@@ -7541,9 +7541,9 @@
                 "rsync://rsync.mirrorservice.org/archive.ubuntu.com/ubuntu/"
             ],
             "hostnames": [
-                "www.mirrorservice.org",
+                "rsync.mirrorservice.org",
                 "ftp.mirrorservice.org",
-                "rsync.mirrorservice.org"
+                "www.mirrorservice.org"
             ],
             "mirror_speed": "10 Gbps",
             "status": "Up to date"
@@ -9186,17 +9186,8 @@
             ],
             "mirror_speed": "100 Mbps",
             "status": "Up to date"
-        },
-        {
-            "country": "Unknown",
-            "country_speed": "Unknown",
-            "mirror_name": "",
-            "protocols": [],
-            "hostnames": [],
-            "mirror_speed": "639\n          \n          mirrors",
-            "status": "N/A"
         }
     ],
-    "count": 640,
-    "last_updated": "2025-08-19T15:59:56.881452+00:00"
+    "count": 639,
+    "last_updated": "2025-08-19T16:06:39.842274+00:00"
 }

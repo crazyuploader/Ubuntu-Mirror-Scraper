@@ -344,8 +344,8 @@
                 "rsync://teambelgium.net/ubuntu/"
             ],
             "hostnames": [
-                "teambelgium.net",
-                "ubuntu.teambelgium.net"
+                "ubuntu.teambelgium.net",
+                "teambelgium.net"
             ],
             "mirror_speed": "100 Mbps",
             "status": "N/A"
@@ -431,8 +431,8 @@
             ],
             "hostnames": [
                 "rsync.las.ic.unicamp.br",
-                "www.las.ic.unicamp.br",
-                "ftp.las.ic.unicamp.br"
+                "ftp.las.ic.unicamp.br",
+                "www.las.ic.unicamp.br"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -596,8 +596,8 @@
                 "rsync://yxeux.mm.fcix.net/ubuntu-releases/"
             ],
             "hostnames": [
-                "yxeux.mm.fcix.net",
-                "yxeix.mm.fcix.net"
+                "yxeix.mm.fcix.net",
+                "yxeux.mm.fcix.net"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -1298,9 +1298,9 @@
                 "rsync://rsync.nic.funet.fi/ftp/pub/mirrors/releases.ubuntu.com/"
             ],
             "hostnames": [
-                "www.nic.funet.fi",
                 "rsync.nic.funet.fi",
-                "ftp.funet.fi"
+                "ftp.funet.fi",
+                "www.nic.funet.fi"
             ],
             "mirror_speed": "20 Gbps",
             "status": "N/A"
@@ -1494,8 +1494,8 @@
                 "rsync://ftp.lip6.fr/Ubuntu/releases/"
             ],
             "hostnames": [
-                "www-ftp.lip6.fr",
-                "ftp.lip6.fr"
+                "ftp.lip6.fr",
+                "www-ftp.lip6.fr"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -1761,8 +1761,8 @@
                 "rsync://rsync.uni-bayreuth.de/ubuntu-releases/"
             ],
             "hostnames": [
-                "ftp.uni-bayreuth.de",
-                "rsync.uni-bayreuth.de"
+                "rsync.uni-bayreuth.de",
+                "ftp.uni-bayreuth.de"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -3671,8 +3671,8 @@
                 "rsync://rsync.ubuntu.nautile.nc/ubuntu-releases/"
             ],
             "hostnames": [
-                "rsync.ubuntu.nautile.nc",
-                "releases.ubuntu.nautile.nc"
+                "releases.ubuntu.nautile.nc",
+                "rsync.ubuntu.nautile.nc"
             ],
             "mirror_speed": "2 Gbps",
             "status": "N/A"
@@ -4868,8 +4868,8 @@
                 "rsync://ftp.ubuntu-tw.org/ubuntu-releases/"
             ],
             "hostnames": [
-                "ftp.ubuntu-tw.org",
-                "ftp.ubuntu-tw.net"
+                "ftp.ubuntu-tw.net",
+                "ftp.ubuntu-tw.org"
             ],
             "mirror_speed": "4 Gbps",
             "status": "N/A"
@@ -5188,9 +5188,9 @@
                 "rsync://rsync.releases.ubuntu.com/ubuntu-releases/"
             ],
             "hostnames": [
+                "releases.ubuntu.com",
                 "rsync.releases.ubuntu.com",
-                "ftp.releases.ubuntu.com",
-                "releases.ubuntu.com"
+                "ftp.releases.ubuntu.com"
             ],
             "mirror_speed": "20 Gbps",
             "status": "N/A"
@@ -5291,9 +5291,9 @@
                 "rsync://rsync.mirrorservice.org/releases.ubuntu.com/"
             ],
             "hostnames": [
-                "www.mirrorservice.org",
+                "rsync.mirrorservice.org",
                 "ftp.mirrorservice.org",
-                "rsync.mirrorservice.org"
+                "www.mirrorservice.org"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -5426,8 +5426,8 @@
                 "rsync://ubuntu.mirrors.uk2.net/releases/"
             ],
             "hostnames": [
-                "releases.ubuntu.mirrors.uk2.net",
-                "ubuntu.mirrors.uk2.net"
+                "ubuntu.mirrors.uk2.net",
+                "releases.ubuntu.mirrors.uk2.net"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -6733,17 +6733,8 @@
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
-        },
-        {
-            "country": "Unknown",
-            "country_speed": "Unknown",
-            "mirror_name": "",
-            "protocols": [],
-            "hostnames": [],
-            "mirror_speed": "460\n          \n          mirrors",
-            "status": "N/A"
         }
     ],
-    "count": 461,
-    "last_updated": "2025-08-19T15:59:57.640924+00:00"
+    "count": 460,
+    "last_updated": "2025-08-19T16:06:40.424290+00:00"
 }
