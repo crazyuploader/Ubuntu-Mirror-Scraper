@@ -1,6 +1,6 @@
-# Ubuntu Mirror Scraper
+# Ubuntu Mirrors Scraper
 
-> Python program to scrape Ubuntu mirror from https://launchpad.net/ubuntu/+archivemirrors
+> Python program to scrape Ubuntu mirrors from https://launchpad.net/ubuntu/+archivemirrors
 
 ## Usage
 
