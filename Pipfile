@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 bs4 = "*"
 requests = "==2.32.5"
+pandas = "*"
 
 [dev-packages]
 
