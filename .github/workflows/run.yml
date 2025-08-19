@@ -1,49 +1,55 @@
-name: Run Program
+name: Run Program and Push Updates
 
 on:
   push:
     branches:
       - main
   repository_dispatch:
+    types: [trigger_workflow]
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
 
 jobs:
   run_program:
-    runs-on: "ubuntu-latest"
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0 # Needed to detect changed files properly
 
       - name: Setup Python
-        uses: actions/setup-python@v5.6.0
+        uses: actions/setup-python@v5
         with:
-          # Version range or exact version of Python or PyPy to use, using SemVer's version range syntax. Reads from .python-version if unset.
           python-version: 3.13.7
-          # Used to specify a package manager for caching in the default directory. Supported values: pip, pipenv, poetry.
           cache: pipenv
 
       - name: Install Dependencies
         run: |
-          pip3 install --upgrade pipenv
+          pip install --upgrade pipenv
           pipenv install
 
       - name: Run Python Program
-        run: |
-          pipenv run ./main.py
+        run: pipenv run ./main.py
 
       - name: Check for changes
         id: check_changes
         run: |
-          git diff --exit-code || echo "Changes detected"
+          if git diff --exit-code; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changed files detected"
+            git status
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit files
         if: steps.check_changes.outputs.changed == 'true'
         run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
           git add .
-          git commit -m "Add changes"
+          git commit -m "[Bot] Auto-commit changes from workflow"
 
       - name: Push changes
         if: steps.check_changes.outputs.changed == 'true'
