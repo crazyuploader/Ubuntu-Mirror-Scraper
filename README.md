@@ -10,11 +10,19 @@ pipenv install
 pipenv run ./main.py
 ```
 
-## Data
+## Mirrors
 
-- [CSV File](data/mirrors/ubuntu_mirrors.csv)
-- [JSON File](data/mirrors/ubuntu_mirrors.json)
-- [Txt File](data/mirrors/ubuntu_mirrors.txt)
+### Archive
+
+- [CSV File](data/mirrors/archive/servers.csv)
+- [JSON File](data/mirrors/archive/servers.json)
+- [Txt File](data/mirrors/archive/servers.txt)
+
+### CD (ISO)
+
+- [CSV File](data/mirrors/cd/servers.csv)
+- [JSON File](data/mirrors/cd/servers.json)
+- [Txt File](data/mirrors/cd/servers.txt)
 
 ## Technologies Used
 
