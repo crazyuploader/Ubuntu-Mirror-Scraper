@@ -431,8 +431,8 @@
             ],
             "hostnames": [
                 "ftp.las.ic.unicamp.br",
-                "www.las.ic.unicamp.br",
-                "rsync.las.ic.unicamp.br"
+                "rsync.las.ic.unicamp.br",
+                "www.las.ic.unicamp.br"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -580,8 +580,8 @@
                 "rsync://muug.ca/ubuntu-releases/"
             ],
             "hostnames": [
-                "muug.ca",
-                "ftp.muug.ca"
+                "ftp.muug.ca",
+                "muug.ca"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -1494,8 +1494,8 @@
                 "rsync://ftp.lip6.fr/Ubuntu/releases/"
             ],
             "hostnames": [
-                "www-ftp.lip6.fr",
-                "ftp.lip6.fr"
+                "ftp.lip6.fr",
+                "www-ftp.lip6.fr"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -2293,8 +2293,8 @@
                 "rsync://mirrors.zagrio.net/ubuntu-releases/"
             ],
             "hostnames": [
-                "mirrors.zagrio.net",
-                "releases.ubuntu.mirrors.zagrio.net"
+                "releases.ubuntu.mirrors.zagrio.net",
+                "mirrors.zagrio.net"
             ],
             "mirror_speed": "100 Gbps",
             "status": "N/A"
@@ -3743,8 +3743,8 @@
                 "rsync://no.archive.ubuntu.com/ubuntu-releases/"
             ],
             "hostnames": [
-                "no.archive.ubuntu.com",
-                "no.releases.ubuntu.com"
+                "no.releases.ubuntu.com",
+                "no.archive.ubuntu.com"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -4494,8 +4494,8 @@
                 "rsync://rsync.rediris.es/sites/releases.ubuntu.com/"
             ],
             "hostnames": [
-                "rsync.rediris.es",
-                "ftp.rediris.es"
+                "ftp.rediris.es",
+                "rsync.rediris.es"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -4524,8 +4524,8 @@
                 "rsync://rsync.udc.es/ubuntu-releases/"
             ],
             "hostnames": [
-                "rsync.udc.es",
-                "ftp.udc.es"
+                "ftp.udc.es",
+                "rsync.udc.es"
             ],
             "mirror_speed": "2 Gbps",
             "status": "N/A"
@@ -4584,8 +4584,8 @@
                 "rsync://rsync.rediris.es/ftp/mirror/ubuntu-releases/"
             ],
             "hostnames": [
-                "rsync.rediris.es",
-                "ftp.rediris.es"
+                "ftp.rediris.es",
+                "rsync.rediris.es"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -5188,9 +5188,9 @@
                 "rsync://rsync.releases.ubuntu.com/ubuntu-releases/"
             ],
             "hostnames": [
-                "releases.ubuntu.com",
+                "ftp.releases.ubuntu.com",
                 "rsync.releases.ubuntu.com",
-                "ftp.releases.ubuntu.com"
+                "releases.ubuntu.com"
             ],
             "mirror_speed": "20 Gbps",
             "status": "N/A"
@@ -5292,8 +5292,8 @@
             ],
             "hostnames": [
                 "rsync.mirrorservice.org",
-                "www.mirrorservice.org",
-                "ftp.mirrorservice.org"
+                "ftp.mirrorservice.org",
+                "www.mirrorservice.org"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -5426,8 +5426,8 @@
                 "rsync://ubuntu.mirrors.uk2.net/releases/"
             ],
             "hostnames": [
-                "ubuntu.mirrors.uk2.net",
-                "releases.ubuntu.mirrors.uk2.net"
+                "releases.ubuntu.mirrors.uk2.net",
+                "ubuntu.mirrors.uk2.net"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -6602,9 +6602,9 @@
                 "rsync://rsync.gtlib.gatech.edu/ubuntu-releases/"
             ],
             "hostnames": [
-                "rsync.gtlib.gatech.edu",
+                "www.gtlib.gatech.edu",
                 "ftp.gtlib.gatech.edu",
-                "www.gtlib.gatech.edu"
+                "rsync.gtlib.gatech.edu"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -6736,5 +6736,5 @@
         }
     ],
     "count": 460,
-    "last_updated": "2025-08-19T16:11:52.083179+00:00"
+    "last_updated": "2025-08-19T16:24:54.287199+00:00"
 }
