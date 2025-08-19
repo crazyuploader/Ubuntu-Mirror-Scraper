@@ -52,6 +52,10 @@ def parse_mirrors(html_content, table_id):
         if len(cols) < 3:
             continue
 
+        # Skip rows that are clearly malformed or summary lines
+        if country == "Unknown" and not cols[0].text.strip():
+            continue
+
         mirror_name = cols[0].text.strip()
         protocols = [a["href"] for a in cols[1].find_all("a")]
         mirror_speed = cols[2].text.strip()
@@ -108,7 +112,6 @@ def save_data(mirrors_data, base_directory):
                     mirror["country_speed"],
                     mirror["mirror_name"],
                     ", ".join(mirror["protocols"]),
-                    ", ".join(mirror["hostnames"]),
                     ", ".join(mirror["hostnames"]),
                     mirror["mirror_speed"],
                     mirror["status"],
