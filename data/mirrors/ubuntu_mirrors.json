@@ -150,8 +150,8 @@
             "rsync://mirror.digitalpacific.com.au/ubuntu/archive/"
         ],
         "hostnames": [
-            "ubuntu.mirror.digitalpacific.com.au",
-            "mirror.digitalpacific.com.au"
+            "mirror.digitalpacific.com.au",
+            "ubuntu.mirror.digitalpacific.com.au"
         ],
         "mirror_speed": "20 Gbps",
         "status": "Up to date"
@@ -964,8 +964,8 @@
             "rsync://muug.ca/ubuntu/"
         ],
         "hostnames": [
-            "muug.ca",
-            "ftp.muug.ca"
+            "ftp.muug.ca",
+            "muug.ca"
         ],
         "mirror_speed": "10 Gbps",
         "status": "Up to date"
@@ -1282,8 +1282,8 @@
             "rsync://rsync.mirrors.ustc.edu.cn/ubuntu/"
         ],
         "hostnames": [
-            "mirrors.ustc.edu.cn",
-            "rsync.mirrors.ustc.edu.cn"
+            "rsync.mirrors.ustc.edu.cn",
+            "mirrors.ustc.edu.cn"
         ],
         "mirror_speed": "10 Gbps",
         "status": "Up to date"
@@ -2598,8 +2598,8 @@
             "rsync://rsync.uni-bayreuth.de/ubuntu-archive/"
         ],
         "hostnames": [
-            "rsync.uni-bayreuth.de",
-            "ftp.uni-bayreuth.de"
+            "ftp.uni-bayreuth.de",
+            "rsync.uni-bayreuth.de"
         ],
         "mirror_speed": "1 Gbps",
         "status": "Up to date"
@@ -4591,8 +4591,8 @@
             "rsync://rsync.mirror.zzunipark.com/ubuntu/"
         ],
         "hostnames": [
-            "rsync.mirror.zzunipark.com",
-            "mirror.zzunipark.com"
+            "mirror.zzunipark.com",
+            "rsync.mirror.zzunipark.com"
         ],
         "mirror_speed": "2 Gbps",
         "status": "Up to date"
@@ -4607,8 +4607,8 @@
             "rsync://rsync.mirror.zzunipark.com/ubuntu-ports/"
         ],
         "hostnames": [
-            "rsync.mirror.zzunipark.com",
-            "mirror.zzunipark.com"
+            "mirror.zzunipark.com",
+            "rsync.mirror.zzunipark.com"
         ],
         "mirror_speed": "2 Gbps",
         "status": "Up to date"
@@ -4623,8 +4623,8 @@
             "rsync://mirror.anigil.com/ubuntu/"
         ],
         "hostnames": [
-            "mirror.siwoo.org",
-            "mirror.anigil.com"
+            "mirror.anigil.com",
+            "mirror.siwoo.org"
         ],
         "mirror_speed": "1 Gbps",
         "status": "Up to date"
@@ -5534,8 +5534,8 @@
             "rsync://rsync.ubuntu.nautile.nc/ubuntu/"
         ],
         "hostnames": [
-            "archive.ubuntu.nautile.nc",
-            "rsync.ubuntu.nautile.nc"
+            "rsync.ubuntu.nautile.nc",
+            "archive.ubuntu.nautile.nc"
         ],
         "mirror_speed": "2 Gbps",
         "status": "Up to date"
@@ -6063,9 +6063,9 @@
             "rsync://ubuntu.mirror.linux.ro/ubuntu-archive/"
         ],
         "hostnames": [
-            "ubuntu.mirrors.linux.ro",
             "ftp.linux.ro",
-            "ubuntu.mirror.linux.ro"
+            "ubuntu.mirror.linux.ro",
+            "ubuntu.mirrors.linux.ro"
         ],
         "mirror_speed": "1 Gbps",
         "status": "Up to date"
@@ -6152,8 +6152,8 @@
             "rsync://ftp.corbina.net/ubuntu/"
         ],
         "hostnames": [
-            "ftp.corbina.net",
-            "mirror.corbina.net"
+            "mirror.corbina.net",
+            "ftp.corbina.net"
         ],
         "mirror_speed": "1 Gbps",
         "status": "Up to date"
@@ -6525,8 +6525,8 @@
             "rsync://rsync.udc.es/ubuntu/"
         ],
         "hostnames": [
-            "rsync.udc.es",
-            "ftp.udc.es"
+            "ftp.udc.es",
+            "rsync.udc.es"
         ],
         "mirror_speed": "2 Gbps",
         "status": "Up to date"
@@ -6953,8 +6953,8 @@
             "rsync://ftp.ubuntu-tw.org/ubuntu/"
         ],
         "hostnames": [
-            "ftp.ubuntu-tw.net",
-            "ftp.ubuntu-tw.org"
+            "ftp.ubuntu-tw.org",
+            "ftp.ubuntu-tw.net"
         ],
         "mirror_speed": "4 Gbps",
         "status": "Up to date"
@@ -7541,8 +7541,8 @@
         ],
         "hostnames": [
             "ftp.mirrorservice.org",
-            "rsync.mirrorservice.org",
-            "www.mirrorservice.org"
+            "www.mirrorservice.org",
+            "rsync.mirrorservice.org"
         ],
         "mirror_speed": "10 Gbps",
         "status": "Up to date"
@@ -8893,8 +8893,8 @@
             "rsync://rsync.gtlib.gatech.edu/ubuntu/"
         ],
         "hostnames": [
-            "rsync.gtlib.gatech.edu",
             "www.gtlib.gatech.edu",
+            "rsync.gtlib.gatech.edu",
             "ftp.gtlib.gatech.edu"
         ],
         "mirror_speed": "1 Gbps",
