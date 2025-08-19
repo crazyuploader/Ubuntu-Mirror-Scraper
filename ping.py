@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import subprocess
 import pandas as pd
 from concurrent.futures import ThreadPoolExecutor, as_completed
