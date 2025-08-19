@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import csv
+import datetime
 import json
 import os
 import requests
@@ -142,9 +143,20 @@ if table:
     # Define the file path where the JSON will be saved
     json_file = "data/mirrors/ubuntu_mirrors.json"
 
+    # Current time
+    now = datetime.datetime.now(datetime.timezone.utc)
+
     # Open the file in write mode and save the data as JSON
     with open(json_file, mode="w") as file:
-        json.dump(mirrors_data, file, indent=4)
+        json.dump(
+            {
+                "mirrors": mirrors_data,
+                "count": len(mirrors_data),
+                "last_updated": now.isoformat(),
+            },
+            file,
+            indent=4,
+        )
 
     print(f"Data saved to {json_file}")
 
