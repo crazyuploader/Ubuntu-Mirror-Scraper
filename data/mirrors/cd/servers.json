@@ -431,8 +431,8 @@
             ],
             "hostnames": [
                 "rsync.las.ic.unicamp.br",
-                "ftp.las.ic.unicamp.br",
-                "www.las.ic.unicamp.br"
+                "www.las.ic.unicamp.br",
+                "ftp.las.ic.unicamp.br"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -596,8 +596,8 @@
                 "rsync://yxeux.mm.fcix.net/ubuntu-releases/"
             ],
             "hostnames": [
-                "yxeix.mm.fcix.net",
-                "yxeux.mm.fcix.net"
+                "yxeux.mm.fcix.net",
+                "yxeix.mm.fcix.net"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -1299,8 +1299,8 @@
             ],
             "hostnames": [
                 "www.nic.funet.fi",
-                "ftp.funet.fi",
-                "rsync.nic.funet.fi"
+                "rsync.nic.funet.fi",
+                "ftp.funet.fi"
             ],
             "mirror_speed": "20 Gbps",
             "status": "N/A"
@@ -1494,8 +1494,8 @@
                 "rsync://ftp.lip6.fr/Ubuntu/releases/"
             ],
             "hostnames": [
-                "ftp.lip6.fr",
-                "www-ftp.lip6.fr"
+                "www-ftp.lip6.fr",
+                "ftp.lip6.fr"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -3743,8 +3743,8 @@
                 "rsync://no.archive.ubuntu.com/ubuntu-releases/"
             ],
             "hostnames": [
-                "no.releases.ubuntu.com",
-                "no.archive.ubuntu.com"
+                "no.archive.ubuntu.com",
+                "no.releases.ubuntu.com"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -3833,8 +3833,8 @@
                 "rsync://rsync.icm.edu.pl/pub/Linux/ubuntu-releases/"
             ],
             "hostnames": [
-                "rsync.icm.edu.pl",
-                "ftp.icm.edu.pl"
+                "ftp.icm.edu.pl",
+                "rsync.icm.edu.pl"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -4524,8 +4524,8 @@
                 "rsync://rsync.udc.es/ubuntu-releases/"
             ],
             "hostnames": [
-                "ftp.udc.es",
-                "rsync.udc.es"
+                "rsync.udc.es",
+                "ftp.udc.es"
             ],
             "mirror_speed": "2 Gbps",
             "status": "N/A"
@@ -4868,8 +4868,8 @@
                 "rsync://ftp.ubuntu-tw.org/ubuntu-releases/"
             ],
             "hostnames": [
-                "ftp.ubuntu-tw.net",
-                "ftp.ubuntu-tw.org"
+                "ftp.ubuntu-tw.org",
+                "ftp.ubuntu-tw.net"
             ],
             "mirror_speed": "4 Gbps",
             "status": "N/A"
@@ -5126,8 +5126,8 @@
                 "ftp://ubuntu.mirrors.omnilance.com/ubuntu/releases/"
             ],
             "hostnames": [
-                "releases.ubuntu.mirrors.omnilance.com",
-                "ubuntu.mirrors.omnilance.com"
+                "ubuntu.mirrors.omnilance.com",
+                "releases.ubuntu.mirrors.omnilance.com"
             ],
             "mirror_speed": "2 Gbps",
             "status": "N/A"
@@ -5189,8 +5189,8 @@
             ],
             "hostnames": [
                 "rsync.releases.ubuntu.com",
-                "releases.ubuntu.com",
-                "ftp.releases.ubuntu.com"
+                "ftp.releases.ubuntu.com",
+                "releases.ubuntu.com"
             ],
             "mirror_speed": "20 Gbps",
             "status": "N/A"
@@ -5291,9 +5291,9 @@
                 "rsync://rsync.mirrorservice.org/releases.ubuntu.com/"
             ],
             "hostnames": [
-                "rsync.mirrorservice.org",
+                "www.mirrorservice.org",
                 "ftp.mirrorservice.org",
-                "www.mirrorservice.org"
+                "rsync.mirrorservice.org"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -6745,5 +6745,5 @@
         }
     ],
     "count": 461,
-    "last_updated": "2025-08-19T15:56:00.287957+00:00"
+    "last_updated": "2025-08-19T15:59:57.640924+00:00"
 }
