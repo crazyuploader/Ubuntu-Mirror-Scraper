@@ -1,6 +1,7 @@
 Country,Country Speed,Mirror Name,Protocols,Hostnames,Mirror Speed,Status
 Argentina,11 Gbps,SiTSA Telecomunicaciones,"https://mirror.sitsa.com.ar/ubuntu-releases/, http://mirror.sitsa.com.ar/ubuntu-releases/",mirror.sitsa.com.ar,10 Gbps,N/A
 Argentina,11 Gbps,Zero.com.ar,"https://ubuntu.zero.com.ar/releases/, http://ubuntu.zero.com.ar/releases/",ubuntu.zero.com.ar,1 Gbps,N/A
+Argentina,11 Gbps,Universidad Nacional de Córdoba,"https://releases.ubuntu.unc.edu.ar/, http://releases.ubuntu.unc.edu.ar/",releases.ubuntu.unc.edu.ar,2 Mbps,N/A
 Armenia,12 Gbps,ASNET-AM,http://mirrors.asnet.am/ubuntu-releases/,mirrors.asnet.am,10 Gbps,N/A
 Armenia,12 Gbps,GNC-ALFA CJSC,http://ubuntu.mirror.gnc.am/ubuntu-releases/,ubuntu.mirror.gnc.am,2 Gbps,N/A
 Australia,233 Gbps,Fremont Cabal Internet Exchange,"https://gsl-syd.mm.fcix.net/ubuntu-releases/, http://gsl-syd.mm.fcix.net/ubuntu-releases/, rsync://gsl-syd.mm.fcix.net/ubuntu-releases/",gsl-syd.mm.fcix.net,100 Gbps,N/A
@@ -39,8 +40,8 @@ Canada,168 Gbps,GoCodeIT Inc,"https://mirror.xenyth.net/ubuntu-releases/, http:/
 Canada,168 Gbps,PlanetHoster,http://ubuntu.linux.n0c.ca/ubuntu-cdimage/,ubuntu.linux.n0c.ca,20 Gbps,N/A
 Canada,168 Gbps,The University of British Columbia,"https://mirror.it.ubc.ca/ubuntu-releases/, http://mirror.it.ubc.ca/ubuntu-releases/",mirror.it.ubc.ca,10 Gbps,N/A
 Canada,168 Gbps,Manitoba Unix User Group,"https://muug.ca/mirror/ubuntu-releases/, http://muug.ca/mirror/ubuntu-releases/, ftp://ftp.muug.ca/mirror/ubuntu-releases/, rsync://muug.ca/ubuntu-releases/","ftp.muug.ca, muug.ca",10 Gbps,N/A
-Canada,168 Gbps,Fremont Cabal Internet Exchange,"https://yxeix.mm.fcix.net/ubuntu-releases/, http://yxeix.mm.fcix.net/ubuntu-releases/, rsync://yxeux.mm.fcix.net/ubuntu-releases/","yxeix.mm.fcix.net, yxeux.mm.fcix.net",10 Gbps,N/A
-Canada,168 Gbps,0xEmma,"https://mirror.0xem.ma/ubuntu-releases/, http://mirror.0xem.ma/ubuntu-releases/, rsync://mirrror.0xem.ma/ubuntu-releases/","mirror.0xem.ma, mirrror.0xem.ma",4 Gbps,N/A
+Canada,168 Gbps,Fremont Cabal Internet Exchange,"https://yxeix.mm.fcix.net/ubuntu-releases/, http://yxeix.mm.fcix.net/ubuntu-releases/, rsync://yxeux.mm.fcix.net/ubuntu-releases/","yxeux.mm.fcix.net, yxeix.mm.fcix.net",10 Gbps,N/A
+Canada,168 Gbps,0xEmma,"https://mirror.0xem.ma/ubuntu-releases/, http://mirror.0xem.ma/ubuntu-releases/, rsync://mirrror.0xem.ma/ubuntu-releases/","mirrror.0xem.ma, mirror.0xem.ma",4 Gbps,N/A
 Canada,168 Gbps,Team Hydra,"https://mirror.hep.gg/ubuntu-releases/, http://mirror.hep.gg/ubuntu-releases/, rsync://mirror.hep.gg/ubuntu-releases/",mirror.hep.gg,4 Gbps,N/A
 Canada,168 Gbps,Savoir-faire Linux,"https://gpl.savoirfairelinux.net/pub/mirrors/ubuntu-releases/, http://gpl.savoirfairelinux.net/pub/mirrors/ubuntu-releases/",gpl.savoirfairelinux.net,1 Gbps,N/A
 Canada,168 Gbps,Fremont Cabal Internet Exchange,"https://lesnet.mm.fcix.net/ubuntu-releases/, http://lesnet.mm.fcix.net/ubuntu-releases/, rsync://lesnet.mm.fcix.net/ubuntu-releases/",lesnet.mm.fcix.net,1 Gbps,N/A
@@ -100,7 +101,7 @@ France,24 Gbps,Johnnybegood-mirror,"https://mirror.johnnybegood.fr/ubuntu-cd/, h
 France,24 Gbps,Ircam,"https://mirrors.ircam.fr/pub/ubuntu/releases/, http://mirrors.ircam.fr/pub/ubuntu/releases/, ftp://mirrors.ircam.fr/pub/ubuntu/releases/, rsync://mirrors.ircam.fr/pub/ubuntu/releases/",mirrors.ircam.fr,1 Gbps,N/A
 France,24 Gbps,Syxpi's Ubuntu Mirror,"https://ubuntu.syxpi.fr/ubuntu-releases/, http://ubuntu.syxpi.fr/ubuntu-releases/, rsync://ubuntu.syxpi.fr/ubuntu-releases/",ubuntu.syxpi.fr,1 Gbps,N/A
 France,24 Gbps,Université de Nantes,"https://ubuntu.univ-nantes.fr/ubuntu-cd/, http://ubuntu.univ-nantes.fr/ubuntu-cd/, ftp://ubuntu.univ-nantes.fr/ubuntu-cd/, rsync://ubuntu.univ-nantes.fr/ubuntu-cd/",ubuntu.univ-nantes.fr,1 Gbps,N/A
-France,24 Gbps,LIP6/Sorbonne Université,"https://www-ftp.lip6.fr/pub/linux/distributions/Ubuntu/releases/, http://www-ftp.lip6.fr/pub/linux/distributions/Ubuntu/releases/, ftp://ftp.lip6.fr/pub/linux/distributions/Ubuntu/releases/, rsync://ftp.lip6.fr/Ubuntu/releases/","ftp.lip6.fr, www-ftp.lip6.fr",1 Gbps,N/A
+France,24 Gbps,LIP6/Sorbonne Université,"https://www-ftp.lip6.fr/pub/linux/distributions/Ubuntu/releases/, http://www-ftp.lip6.fr/pub/linux/distributions/Ubuntu/releases/, ftp://ftp.lip6.fr/pub/linux/distributions/Ubuntu/releases/, rsync://ftp.lip6.fr/Ubuntu/releases/","www-ftp.lip6.fr, ftp.lip6.fr",1 Gbps,N/A
 France,24 Gbps,CNRS/IPSL,"http://distrib-coffee.ipsl.jussieu.fr/pub/linux/ubuntu-releases/, ftp://distrib-coffee.ipsl.jussieu.fr/pub/linux/ubuntu-releases/, rsync://distrib-coffee.ipsl.jussieu.fr/pub/linux/ubuntu-releases/",distrib-coffee.ipsl.jussieu.fr,45 Mbps,N/A
 Georgia,100 Mbps,GRENA,"https://ubuntu.grena.ge/releases/, http://ubuntu.grena.ge/releases/, ftp://ubuntu.grena.ge/releases/",ubuntu.grena.ge,100 Mbps,N/A
 Germany,126 Gbps,RWTH Aachen University,"https://ftp.halifax.rwth-aachen.de/ubuntu-releases/, http://ftp.halifax.rwth-aachen.de/ubuntu-releases/, ftp://ftp.halifax.rwth-aachen.de/ubuntu-releases/, rsync://ftp.halifax.rwth-aachen.de/ubuntu-releases/",ftp.halifax.rwth-aachen.de,20 Gbps,N/A
@@ -211,7 +212,7 @@ Latvia,2 Gbps,University of Latvia,"http://ubuntu-rel.linux.edu.lv/, ftp://ubunt
 Latvia,2 Gbps,koyanet.lv,"https://ubuntu.koyanet.lv/releases/, http://ubuntu.koyanet.lv/releases/",ubuntu.koyanet.lv,1 Gbps,N/A
 Lithuania,11 Gbps,"Informacinės sistemos ir technologijos, UAB logotipas Informacinės sistemos ir technologijos, UAB","https://mirror.bacloud.com/ubuntu-mirror/releases/, http://mirror.bacloud.com/ubuntu-mirror/releases/, rsync://mirror.bacloud.com/ubuntu-mirror/releases/",mirror.bacloud.com,10 Gbps,N/A
 Lithuania,11 Gbps,Vilnius University,"http://ubuntu.mirror.vu.lt/releases/, ftp://ubuntu.mirror.vu.lt/releases/, rsync://ubuntu.mirror.vu.lt/releases/",ubuntu.mirror.vu.lt,1 Gbps,N/A
-Luxembourg,1 Gbps,root S.A.,"http://ubuntu.mirror.root.lu/ubuntu-releases/, ftp://mirror.root.lu/ubuntu/ubuntu-releases/, rsync://mirror.root.lu/Ubuntu/ubuntu-releases/","ubuntu.mirror.root.lu, mirror.root.lu",1 Gbps,N/A
+Luxembourg,1 Gbps,root S.A.,"http://ubuntu.mirror.root.lu/ubuntu-releases/, ftp://mirror.root.lu/ubuntu/ubuntu-releases/, rsync://mirror.root.lu/Ubuntu/ubuntu-releases/","mirror.root.lu, ubuntu.mirror.root.lu",1 Gbps,N/A
 "Macedonia, Republic of",11 Gbps,one.Vip,"http://mirror.onevip.mk/ubuntureleases/, rsync://mirror.onevip.mk/ubuntureleases/",mirror.onevip.mk,10 Gbps,N/A
 "Macedonia, Republic of",11 Gbps,Macedonian Telecom,"https://mirror.t-home.mk/ubuntu-releases/, http://mirror.t-home.mk/ubuntu-releases/",mirror.t-home.mk,1 Gbps,N/A
 Malaysia,3 Gbps,GB Network Solutions,"https://mirrors.gbnetwork.com/ubuntu-releases/, http://mirrors.gbnetwork.com/ubuntu-releases/, rsync://mirrors.gbnetwork.com/ubuntu-releases/",mirrors.gbnetwork.com,1 Gbps,N/A
@@ -250,7 +251,7 @@ Netherlands,290 Gbps,Previder B.V.,"https://mirror.previder.nl/ubuntu-releases/,
 Netherlands,290 Gbps,Evoluso.com,"https://mirrors.evoluso.com/ubuntu-releases/, http://mirrors.evoluso.com/ubuntu-releases/",mirrors.evoluso.com,1 Gbps,N/A
 Netherlands,290 Gbps,Ftpserv.tudelft.nl,ftp://ftpserv.tudelft.nl/pub/Linux/releases.ubuntu.com/,ftpserv.tudelft.nl,10 Mbps,N/A
 New Caledonia,6 Gbps,OFFRATEL LAGOON,"http://mirror.lagoon.nc/ubuntu-cd/, ftp://mirror.lagoon.nc/ubuntu-cd/, rsync://mirror.lagoon.nc/ubuntu-cd/",mirror.lagoon.nc,4 Gbps,N/A
-New Caledonia,6 Gbps,Nautile,"http://releases.ubuntu.nautile.nc/, rsync://rsync.ubuntu.nautile.nc/ubuntu-releases/","rsync.ubuntu.nautile.nc, releases.ubuntu.nautile.nc",2 Gbps,N/A
+New Caledonia,6 Gbps,Nautile,"http://releases.ubuntu.nautile.nc/, rsync://rsync.ubuntu.nautile.nc/ubuntu-releases/","releases.ubuntu.nautile.nc, rsync.ubuntu.nautile.nc",2 Gbps,N/A
 New Zealand,31 Gbps,Free Software Mirror Group (FSMG),"https://mirror.fsmg.org.nz/ubuntu-releases/, http://mirror.fsmg.org.nz/ubuntu-releases/, rsync://mirror.fsmg.org.nz/ubuntu-releases/",mirror.fsmg.org.nz,20 Gbps,N/A
 New Zealand,31 Gbps,2degrees,"https://mirror.2degrees.nz/ubuntu-releases/, http://mirror.2degrees.nz/ubuntu-releases/, rsync://mirror.2degrees.nz/ubuntu-releases/",mirror.2degrees.nz,10 Gbps,N/A
 New Zealand,31 Gbps,University of Canterbury,https://ucmirror.canterbury.ac.nz/linux/ubuntu-releases/,ucmirror.canterbury.ac.nz,1 Gbps,N/A
@@ -304,7 +305,7 @@ Singapore,177 Gbps,vHost,"https://sg-mirrors.vhost.vn/ubuntu-release/, http://sg
 Slovakia,1 Gbps,Rainside,"http://tux.rainside.sk/ubuntu-releases/, ftp://tux.rainside.sk/ubuntu-releases/",tux.rainside.sk,1 Gbps,N/A
 Slovenia,100 Mbps,Arnes,"https://ftp.arnes.si/pub/mirrors/ubuntu-cdimage/, http://ftp.arnes.si/pub/mirrors/ubuntu-cdimage/, ftp://ftp.arnes.si/mirrors/ubuntu-cdimage/, rsync://ftp.arnes.si/releases/",ftp.arnes.si,100 Mbps,N/A
 South Africa,3 Gbps,HOSTAFRICA,http://mirror.hostafrica.co.za/ubuntu-releases/,mirror.hostafrica.co.za,1 Gbps,N/A
-South Africa,3 Gbps,Telkom SAIX,"http://ubuntu.saix.net/ubuntu-releases/, ftp://ftp.saix.net/pub/linux/distributions/Ubuntu/ubuntu-releases/","ftp.saix.net, ubuntu.saix.net",1 Gbps,N/A
+South Africa,3 Gbps,Telkom SAIX,"http://ubuntu.saix.net/ubuntu-releases/, ftp://ftp.saix.net/pub/linux/distributions/Ubuntu/ubuntu-releases/","ubuntu.saix.net, ftp.saix.net",1 Gbps,N/A
 South Africa,3 Gbps,Internet Solutions,"http://ubuntuarchive.is.co.za/cdimage/releases/, ftp://ubuntuarchive.is.co.za/cdimage/releases/",ubuntuarchive.is.co.za,1 Gbps,N/A
 Spain,27 Gbps,RedIRIS,"http://ftp.rediris.es/sites/releases.ubuntu.com/, ftp://ftp.rediris.es/sites/releases.ubuntu.com/, rsync://rsync.rediris.es/sites/releases.ubuntu.com/","rsync.rediris.es, ftp.rediris.es",10 Gbps,N/A
 Spain,27 Gbps,Raiola Networks,"http://mirror.raiolanetworks.com/ubuntu-releases/, rsync://mirror.raiolanetworks.com/pub/ubuntu-releases/",mirror.raiolanetworks.com,10 Gbps,N/A
@@ -360,7 +361,7 @@ United Kingdom,102 Gbps,Server.net,"https://mirror.server.net/ubuntu-releases/, 
 United Kingdom,102 Gbps,Vorboss Ltd,http://mirror.vorboss.net/ubuntu-releases/,mirror.vorboss.net,10 Gbps,N/A
 United Kingdom,102 Gbps,20i.com,"https://mirrors.20i.com/pub/releases.ubuntu.com/, http://mirrors.20i.com/pub/releases.ubuntu.com/",mirrors.20i.com,10 Gbps,N/A
 United Kingdom,102 Gbps,Vinters,"https://mirrors.vinters.com/ubuntu-releases/, http://mirrors.vinters.com/ubuntu-releases/, rsync://mirrors.vinters.com/ubuntu-releases/",mirrors.vinters.com,10 Gbps,N/A
-United Kingdom,102 Gbps,University Of Kent UK Mirror Service,"https://www.mirrorservice.org/sites/releases.ubuntu.com/, http://www.mirrorservice.org/sites/releases.ubuntu.com/, ftp://ftp.mirrorservice.org/sites/releases.ubuntu.com/, rsync://rsync.mirrorservice.org/releases.ubuntu.com/","www.mirrorservice.org, ftp.mirrorservice.org, rsync.mirrorservice.org",10 Gbps,N/A
+United Kingdom,102 Gbps,University Of Kent UK Mirror Service,"https://www.mirrorservice.org/sites/releases.ubuntu.com/, http://www.mirrorservice.org/sites/releases.ubuntu.com/, ftp://ftp.mirrorservice.org/sites/releases.ubuntu.com/, rsync://rsync.mirrorservice.org/releases.ubuntu.com/","rsync.mirrorservice.org, ftp.mirrorservice.org, www.mirrorservice.org",10 Gbps,N/A
 United Kingdom,102 Gbps,Fremont Cabal Internet Exchange,"https://b4sh.mm.fcix.net/ubuntu-releases/, http://b4sh.mm.fcix.net/ubuntu-releases/, rsync://b4sh.mm.fcix.net/ubuntu-releases/",b4sh.mm.fcix.net,1 Gbps,N/A
 United Kingdom,102 Gbps,Fremont Cabal Internet Exchange,"https://creeperhost.mm.fcix.net/ubuntu-releases/, http://creeperhost.mm.fcix.net/ubuntu-releases/, rsync://creeperhost.mm.fcix.net/ubuntu-releases/",creeperhost.mm.fcix.net,1 Gbps,N/A
 United Kingdom,102 Gbps,Fremont Cabal Internet Exchange,"https://divergentnetworks.mm.fcix.net/ubuntu-releases/, http://divergentnetworks.mm.fcix.net/ubuntu-releases/, rsync://divergentnetworks.mm.fcix.net/ubuntu-releases/",divergentnetworks.mm.fcix.net,1 Gbps,N/A
@@ -374,86 +375,85 @@ United Kingdom,102 Gbps,Moon127.net,http://releases.ubuntu.moon127.net/,releases
 United Kingdom,102 Gbps,Ticklers.Org,"http://ftp.ticklers.org/releases.ubuntu.org/releases/, rsync://ftp.ticklers.org/releases.ubuntu.org/releases/",ftp.ticklers.org,1 Gbps,N/A
 United Kingdom,102 Gbps,Datahop Ltd.,"http://gb.releases.ubuntu.com/, ftp://gb.releases.ubuntu.com/, rsync://gb.releases.ubuntu.com/releases/",gb.releases.ubuntu.com,1 Gbps,N/A
 United Kingdom,102 Gbps,EyeScary Development,"https://repo.c48.uk/ubuntu/releases/, http://repo.c48.uk/ubuntu/releases/, rsync://repo.c48.uk/ubuntu/releases/",repo.c48.uk,100 Mbps,N/A
-United States,527 Gbps,Pilot Fiber,"https://mirror.pilotfiber.com/ubuntu-iso/, http://mirror.pilotfiber.com/ubuntu-iso/",mirror.pilotfiber.com,50 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://cofractal-ewr.mm.fcix.net/ubuntu-releases/, http://cofractal-ewr.mm.fcix.net/ubuntu-releases/, rsync://cofractal-ewr.mm.fcix.net/ubuntu-releases/",cofractal-ewr.mm.fcix.net,20 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://cofractal-sea.mm.fcix.net/ubuntu-releases/, http://cofractal-sea.mm.fcix.net/ubuntu-releases/, rsync://cofractal-sea.mm.fcix.net/ubuntu-releases/",cofractal-sea.mm.fcix.net,20 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://gigsouth.mm.fcix.net/ubuntu-releases/, http://gigsouth.mm.fcix.net/ubuntu-releases/, rsync://gigsouth.mm.fcix.net/ubuntu-releases/",gigsouth.mm.fcix.net,20 Gbps,N/A
-United States,527 Gbps,Princeton Mathematics,"https://mirror.math.princeton.edu/pub/ubuntu-iso/, http://mirror.math.princeton.edu/pub/ubuntu-iso/, rsync://mirror.math.princeton.edu/pub/ubuntu-iso/",mirror.math.princeton.edu,20 Gbps,N/A
-United States,527 Gbps,TeraSwitch Inc.,"https://mirror.pit.teraswitch.com/ubuntu-releases/, http://mirror.pit.teraswitch.com/ubuntu-releases/, rsync://mirror.pit.teraswitch.com/ubuntu-releases/",mirror.pit.teraswitch.com,20 Gbps,N/A
-United States,527 Gbps,MIRhosting,"https://mirror.us.mirhosting.net/ubuntu-releases/, http://mirror.us.mirhosting.net/ubuntu-releases/, ftp://mirror.us.mirhosting.net/ubuntu-releases/, rsync://mirror.us.mirhosting.net/ubuntu-releases/",mirror.us.mirhosting.net,20 Gbps,N/A
-United States,527 Gbps,Lancaster-Lebanon IU13,"https://mirrors.iu13.net/ubuntu-releases/, http://mirrors.iu13.net/ubuntu-releases/, rsync://mirrors.iu13.net/ubuntu-releases/",mirrors.iu13.net,20 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://southfront.mm.fcix.net/ubuntu-releases/, http://southfront.mm.fcix.net/ubuntu-releases/, rsync://southfront.mm.fcix.net/ubuntu-releases/",southfront.mm.fcix.net,20 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://coresite-atl.mm.fcix.net/ubuntu-releases/, http://coresite-atl.mm.fcix.net/ubuntu-releases/, rsync://coresite-atl.mm.fcix.net/ubuntu-releases/",coresite-atl.mm.fcix.net,10 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://forksystems.mm.fcix.net/ubuntu-releases/, http://forksystems.mm.fcix.net/ubuntu-releases/, rsync://forksystems.mm.fcix.net/ubuntu-releases/",forksystems.mm.fcix.net,10 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://insect.mm.fcix.net/ubuntu-releases/, http://insect.mm.fcix.net/ubuntu-releases/, rsync://insect.mm.fcix.net/ubuntu-releases/",insect.mm.fcix.net,10 Gbps,N/A
-United States,527 Gbps,Constant.com,"https://isos.ubuntu.mirror.constant.com/, http://isos.ubuntu.mirror.constant.com/",isos.ubuntu.mirror.constant.com,10 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://ix-denver.mm.fcix.net/ubuntu-releases/, http://ix-denver.mm.fcix.net/ubuntu-releases/, rsync://ix-denver.mm.fcix.net/ubuntu-releases/",ix-denver.mm.fcix.net,10 Gbps,N/A
-United States,527 Gbps,University of Arizona,"https://mirror.arizona.edu/ubuntu-releases/, http://mirror.arizona.edu/ubuntu-releases/, rsync://mirror.arizona.edu/ubuntu-releases/",mirror.arizona.edu,10 Gbps,N/A
-United States,527 Gbps,Old Dominion University,"https://mirror.cs.odu.edu/ubuntu-releases/, http://mirror.cs.odu.edu/ubuntu-releases/",mirror.cs.odu.edu,10 Gbps,N/A
-United States,527 Gbps,ETTE.biz,"https://mirror.ette.biz/ubuntu-releases/, http://mirror.ette.biz/ubuntu-releases/, rsync://mirror.ette.biz/ubuntu-releases/",mirror.ette.biz,10 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://mirror.fcix.net/ubuntu-releases/, http://mirror.fcix.net/ubuntu-releases/",mirror.fcix.net,10 Gbps,N/A
-United States,527 Gbps,Hoobly Classifieds,"https://ubuntu.mirrors.hoobly.com/, http://ubuntu.mirrors.hoobly.com/",ubuntu.mirrors.hoobly.com,10 Gbps,N/A
-United States,527 Gbps,Limestone Networks,"https://mirror.lstn.net/ubuntu-releases/, http://mirror.lstn.net/ubuntu-releases/, rsync://mirror.lstn.net/ubuntu-releases/",mirror.lstn.net,10 Gbps,N/A
-United States,527 Gbps,Pacific NorthWest National Lab,"https://mirror.pnl.gov/releases/, http://mirror.pnl.gov/releases/, rsync://mirror.pnl.gov/releases/",mirror.pnl.gov,10 Gbps,N/A
-United States,527 Gbps,University of Maryland,"https://mirror.umd.edu/ubuntu-iso/, http://mirror.umd.edu/ubuntu-iso/, rsync://mirror.umd.edu/ubuntu-iso/",mirror.umd.edu,10 Gbps,N/A
-United States,527 Gbps,"LeaseWeb USA, Inc","https://mirror.us.leaseweb.net/ubuntu-releases/, http://mirror.us.leaseweb.net/ubuntu-releases/, ftp://mirror.us.leaseweb.net/ubuntu-releases/, rsync://mirror.us.leaseweb.net/ubuntu-releases/",mirror.us.leaseweb.net,10 Gbps,N/A
-United States,527 Gbps,Bloomsburg University of Pennsylvania,"https://mirrors.bloomu.edu/ubuntu-releases/, http://mirrors.bloomu.edu/ubuntu-releases/, ftp://mirrors.bloomu.edu/ubuntu-releases/, rsync://mirrors.bloomu.edu/ubuntu-releases/",mirrors.bloomu.edu,10 Gbps,N/A
-United States,527 Gbps,Spartan Linux Users Group,"https://mirrors.egr.msu.edu/ubuntu-iso/, http://mirrors.egr.msu.edu/ubuntu-iso/",mirrors.egr.msu.edu,10 Gbps,N/A
-United States,527 Gbps,NetmanageIT,https://mirrors.netmanageit.com/ubuntu-releases/,mirrors.netmanageit.com,10 Gbps,N/A
-United States,527 Gbps,Rochester Institute of Technology,"https://mirrors.rit.edu/ubuntu-releases/, http://mirrors.rit.edu/ubuntu-releases/, ftp://mirrors.rit.edu/ubuntu-releases/",mirrors.rit.edu,10 Gbps,N/A
-United States,527 Gbps,US Internet,"http://mirrors.usinternet.com/ubuntu/releases/, rsync://mirrors.usinternet.com/ubuntu-releases/",mirrors.usinternet.com,10 Gbps,N/A
-United States,527 Gbps,xTom,"https://mirrors.xtom.com/ubuntu-releases/, http://mirrors.xtom.com/ubuntu-releases/, rsync://mirrors.xtom.com/ubuntu-releases/",mirrors.xtom.com,10 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://nnenix.mm.fcix.net/ubuntu-releases/, http://nnenix.mm.fcix.net/ubuntu-releases/, rsync://nnenix.mm.fcix.net/ubuntu-releases/",nnenix.mm.fcix.net,10 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://nocix.mm.fcix.net/ubuntu-releases/, http://nocix.mm.fcix.net/ubuntu-releases/, rsync://nocix.mm.fcix.net/ubuntu-releases/",nocix.mm.fcix.net,10 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://opencolo.mm.fcix.net/ubuntu-releases/, http://opencolo.mm.fcix.net/ubuntu-releases/, rsync://opencolo.mm.fcix.net/ubuntu-releases/",opencolo.mm.fcix.net,10 Gbps,N/A
-United States,527 Gbps,University of Utah,"http://ubuntu.cs.utah.edu/releases/, ftp://ubuntu.cs.utah.edu/ubuntu/releases/, rsync://ubuntu.cs.utah.edu/ubuntu-releases/",ubuntu.cs.utah.edu,10 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://solidrock.mm.fcix.net/ubuntu-releases/, http://solidrock.mm.fcix.net/ubuntu-releases/, rsync://solidrock.mm.fcix.net/ubuntu-releases/",solidrock.mm.fcix.net,10 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://volico.mm.fcix.net/ubuntu-releases/, http://volico.mm.fcix.net/ubuntu-releases/, rsync://volico.mm.fcix.net/ubuntu-releases/",volico.mm.fcix.net,10 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://ziply.mm.fcix.net/ubuntu-releases/, http://ziply.mm.fcix.net/ubuntu-releases/, rsync://ziply.mm.fcix.net/ubuntu-releases/",ziply.mm.fcix.net,10 Gbps,N/A
-United States,527 Gbps,GigeNET,"https://mirrors.gigenet.com/ubuntucd/, http://mirrors.gigenet.com/ubuntucd/",mirrors.gigenet.com,4 Gbps,N/A
-United States,527 Gbps,N1OF,"https://mirror.n1of.com/cdimage/, http://mirror.n1of.com/cdimage/",mirror.n1of.com,2 Gbps,N/A
-United States,527 Gbps,RustyTel,http://mirror.rustytel.net/ubuntu-releases/,mirror.rustytel.net,2 Gbps,N/A
-United States,527 Gbps,Kernel.org,"http://mirrors.us.kernel.org/ubuntu-releases/, ftp://mirrors.us.kernel.org/ubuntu-releases/, rsync://mirrors.us.kernel.org/ubuntu-releases/",mirrors.us.kernel.org,2 Gbps,N/A
-United States,527 Gbps,OSU Open Source Lab,"https://ubuntu.osuosl.org/releases/, http://ubuntu.osuosl.org/releases/, ftp://ubuntu.osuosl.org/pub/ubuntu-releases/, rsync://ubuntu.osuosl.org/ubuntu-releases/",ubuntu.osuosl.org,2 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://abqix.mm.fcix.net/ubuntu-releases/, http://abqix.mm.fcix.net/ubuntu-releases/, rsync://abqix.mm.fcix.net/ubuntu-releases/",abqix.mm.fcix.net,1 Gbps,N/A
-United States,527 Gbps,FCIX/CodingFlyBoy MicroMirror,"https://codingflyboy.mm.fcix.net/ubuntu-releases/, http://codingflyboy.mm.fcix.net/ubuntu-releases/, rsync://codingflyboy.mm.fcix.net/ubuntu-releases/",codingflyboy.mm.fcix.net,1 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://coresite.mm.fcix.net/ubuntu-releases/, http://coresite.mm.fcix.net/ubuntu-releases/, rsync://coresite.mm.fcix.net/ubuntu-releases/",coresite.mm.fcix.net,1 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://irltoolkit.mm.fcix.net/ubuntu-releases/, http://irltoolkit.mm.fcix.net/ubuntu-releases/, rsync://irltoolkit.mm.fcix.net/ubuntu-releases/",irltoolkit.mm.fcix.net,1 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://lolhost.mm.fcix.net/ubuntu-releases/, http://lolhost.mm.fcix.net/ubuntu-releases/, rsync://lolhost.mm.fcix.net/ubuntu-releases/",lolhost.mm.fcix.net,1 Gbps,N/A
-United States,527 Gbps,Michigan Tech Linux Users' Group,"http://lug.mtu.edu/ubuntu-iso/, ftp://lug.mtu.edu/ubuntu-iso/, rsync://lug.mtu.edu/ubuntu-iso/",lug.mtu.edu,1 Gbps,N/A
-United States,527 Gbps,Clarkson University,"https://mirror.clarkson.edu/ubuntu-releases/, http://mirror.clarkson.edu/ubuntu-releases/, rsync://mirror.clarkson.edu/ubuntu-releases/",mirror.clarkson.edu,1 Gbps,N/A
-United States,527 Gbps,Cogent Communications,"http://mirror.cogentco.com/pub/linux/ubuntu-releases/, rsync://mirror.cogentco.com/ubuntu-releases/",mirror.cogentco.com,1 Gbps,N/A
-United States,527 Gbps,James Madison University Department of Computer Science,"https://mirror.cs.jmu.edu/pub/ubuntu-iso/, http://mirror.cs.jmu.edu/pub/ubuntu-iso/",mirror.cs.jmu.edu,1 Gbps,N/A
-United States,527 Gbps,Freakinbananas,"http://mirror.freakinbananas.xyz/releases/, rsync://mirror.freakinbananas.xyz/ubuntu-releases/",mirror.freakinbananas.xyz,1 Gbps,N/A
-United States,527 Gbps,MetroCast Cablevision,http://mirror.metrocast.net/ubuntu-releases/,mirror.metrocast.net,1 Gbps,N/A
-United States,527 Gbps,MrJester,"https://mirror.mrjester.net/ubuntu/release/, http://mirror.mrjester.net/ubuntu/release/, rsync://mirror.mrjester.net/ubuntu-releases/",mirror.mrjester.net,1 Gbps,N/A
-United States,527 Gbps,Nexcess,"https://mirror.nexcess.net/ubuntu-releases/, http://mirror.nexcess.net/ubuntu-releases/, ftp://mirror.nexcess.net/ubuntu-releases/",mirror.nexcess.net,1 Gbps,N/A
-United States,527 Gbps,Steadfast Networks,"https://mirror.steadfastnet.com/ubuntu-releases/, http://mirror.steadfastnet.com/ubuntu-releases/, rsync://mirror.steadfastnet.com/ubuntu-releases/",mirror.steadfastnet.com,1 Gbps,N/A
-United States,527 Gbps,Team Cymru,"http://mirror.team-cymru.com/ubuntu-releases/, ftp://mirror.team-cymru.com/ubuntu-releases/, rsync://mirror.team-cymru.com/ubuntu-releases/",mirror.team-cymru.com,1 Gbps,N/A
-United States,527 Gbps,University of Oregon,"http://mirror.uoregon.edu/ubuntu-releases/, ftp://mirror.uoregon.edu/ubuntu-releases/",mirror.uoregon.edu,1 Gbps,N/A
-United States,527 Gbps,Kamatera Inc.,http://mirror.us-ny2.kamatera.com/ubuntu-releases/,mirror.us-ny2.kamatera.com,1 Gbps,N/A
-United States,527 Gbps,Kamatera Inc.,http://mirror.us-sc.kamatera.com/ubuntu-releases/,mirror.us-sc.kamatera.com,1 Gbps,N/A
-United States,527 Gbps,Kamatera Inc.,http://mirror.us-tx.kamatera.com/ubuntu-releases/,mirror.us-tx.kamatera.com,1 Gbps,N/A
-United States,527 Gbps,Wayne State University,"https://mirror.wayne.edu/ubuntu/releases/, http://mirror.wayne.edu/ubuntu/releases/, ftp://mirror.wayne.edu/ubuntu/releases/",mirror.wayne.edu,1 Gbps,N/A
-United States,527 Gbps,Bay Mills Community College,https://mirrors.bmcc.edu/ubuntu-isos/,mirrors.bmcc.edu,1 Gbps,N/A
-United States,527 Gbps,Portland State University,"https://mirrors.cat.pdx.edu/ubuntu-releases/, http://mirrors.cat.pdx.edu/ubuntu-releases/, rsync://mirrors.cat.pdx.edu/ubuntu-releases/",mirrors.cat.pdx.edu,1 Gbps,N/A
-United States,527 Gbps,GigeNET,"https://mirrors.gigenet.com/ubuntu-releases/, http://mirrors.gigenet.com/ubuntu-releases/",mirrors.gigenet.com,1 Gbps,N/A
-United States,527 Gbps,MTU Linux Users Group,"https://mirrors.lug.mtu.edu/ubuntu-releases/, http://mirrors.lug.mtu.edu/ubuntu-releases/, ftp://mirrors.lug.mtu.edu/ubuntu-releases/, rsync://mirrors.lug.mtu.edu/ubuntu-releases/",mirrors.lug.mtu.edu,1 Gbps,N/A
-United States,527 Gbps,MIT SIPB,"https://mirrors.mit.edu/ubuntu-releases/, http://mirrors.mit.edu/ubuntu-releases/, rsync://mirrors.mit.edu/ubuntu-releases/",mirrors.mit.edu,1 Gbps,N/A
-United States,527 Gbps,Open Computing Facility at UC Berkeley,"https://mirrors.ocf.berkeley.edu/ubuntu-releases/, http://mirrors.ocf.berkeley.edu/ubuntu-releases/, ftp://mirrors.ocf.berkeley.edu/ubuntu-releases/, rsync://mirrors.ocf.berkeley.edu/ubuntu-releases/",mirrors.ocf.berkeley.edu,1 Gbps,N/A
-United States,527 Gbps,Sarakas,"https://mirrors.sarak.as/ubuntu-releases/, http://mirrors.sarak.as/ubuntu-releases/, ftp://mirrors.sarak.as/ubuntu-releases/",mirrors.sarak.as,1 Gbps,N/A
-United States,527 Gbps,Xmission,"https://mirrors.xmission.com/ubuntu-cd/, http://mirrors.xmission.com/ubuntu-cd/, ftp://mirrors.xmission.com/ubuntu-cd/",mirrors.xmission.com,1 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://mnvoip.mm.fcix.net/ubuntu-releases/, http://mnvoip.mm.fcix.net/ubuntu-releases/, rsync://mnvoip.mm.fcix.net/ubuntu-releases/",mnvoip.mm.fcix.net,1 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://nullroute.mm.fcix.net/ubuntu-releases/, http://nullroute.mm.fcix.net/ubuntu-releases/, rsync://nullroute.mm.fcix.net/ubuntu-releases/",nullroute.mm.fcix.net,1 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://ohioix.mm.fcix.net/ubuntu-releases/, http://ohioix.mm.fcix.net/ubuntu-releases/, rsync://ohioix.mm.fcix.net/ubuntu-releases/",ohioix.mm.fcix.net,1 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://paducahix.mm.fcix.net/ubuntu-releases/, http://paducahix.mm.fcix.net/ubuntu-releases/, rsync://paducahix.mm.fcix.net/ubuntu-releases/",paducahix.mm.fcix.net,1 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://ryamer.mm.fcix.net/ubuntu-releases/, http://ryamer.mm.fcix.net/ubuntu-releases/, rsync://ryamer.mm.fcix.net/ubuntu-releases/",ryamer.mm.fcix.net,1 Gbps,N/A
-United States,527 Gbps,Fremont Cabal Internet Exchange,"https://veronanetworks.mm.fcix.net/ubuntu-releases/, http://veronanetworks.mm.fcix.net/ubuntu-releases/, rsync://veronanetworks.mm.fcix.net/ubuntu-releases/",veronanetworks.mm.fcix.net,1 Gbps,N/A
-United States,527 Gbps,Georgia Tech. Software Library,"http://www.gtlib.gatech.edu/pub/ubuntu-releases/, ftp://ftp.gtlib.gatech.edu/pub/ubuntu-releases/, rsync://rsync.gtlib.gatech.edu/ubuntu-releases/","rsync.gtlib.gatech.edu, ftp.gtlib.gatech.edu, www.gtlib.gatech.edu",1 Gbps,N/A
-United States,527 Gbps,Michigan Tech Linux Users Group,"http://lug.mtu.edu/ubuntu-releases/, ftp://lug.mtu.edu/ubuntu-releases/, rsync://lug.mtu.edu/ubuntu-releases/",lug.mtu.edu,100 Mbps,N/A
-United States,527 Gbps,Washington State University,http://mirrors.vcea.wsu.edu/ubuntu-releases/,mirrors.vcea.wsu.edu,100 Mbps,N/A
-United States,527 Gbps,Mirror.cs.umn.edu,http://mirror.cs.umn.edu/ubuntu-releases/,mirror.cs.umn.edu,10 Mbps,N/A
-United States,527 Gbps,"CERIAS, Purdue University","http://osmirrors.cerias.purdue.edu/pub/ubuntu-releases/, ftp://osmirrors.cerias.purdue.edu/pub/ubuntu-releases/",osmirrors.cerias.purdue.edu,10 Mbps,N/A
+United States,525 Gbps,Pilot Fiber,"https://mirror.pilotfiber.com/ubuntu-iso/, http://mirror.pilotfiber.com/ubuntu-iso/",mirror.pilotfiber.com,50 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://cofractal-ewr.mm.fcix.net/ubuntu-releases/, http://cofractal-ewr.mm.fcix.net/ubuntu-releases/, rsync://cofractal-ewr.mm.fcix.net/ubuntu-releases/",cofractal-ewr.mm.fcix.net,20 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://cofractal-sea.mm.fcix.net/ubuntu-releases/, http://cofractal-sea.mm.fcix.net/ubuntu-releases/, rsync://cofractal-sea.mm.fcix.net/ubuntu-releases/",cofractal-sea.mm.fcix.net,20 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://gigsouth.mm.fcix.net/ubuntu-releases/, http://gigsouth.mm.fcix.net/ubuntu-releases/, rsync://gigsouth.mm.fcix.net/ubuntu-releases/",gigsouth.mm.fcix.net,20 Gbps,N/A
+United States,525 Gbps,Princeton Mathematics,"https://mirror.math.princeton.edu/pub/ubuntu-iso/, http://mirror.math.princeton.edu/pub/ubuntu-iso/, rsync://mirror.math.princeton.edu/pub/ubuntu-iso/",mirror.math.princeton.edu,20 Gbps,N/A
+United States,525 Gbps,TeraSwitch Inc.,"https://mirror.pit.teraswitch.com/ubuntu-releases/, http://mirror.pit.teraswitch.com/ubuntu-releases/, rsync://mirror.pit.teraswitch.com/ubuntu-releases/",mirror.pit.teraswitch.com,20 Gbps,N/A
+United States,525 Gbps,MIRhosting,"https://mirror.us.mirhosting.net/ubuntu-releases/, http://mirror.us.mirhosting.net/ubuntu-releases/, ftp://mirror.us.mirhosting.net/ubuntu-releases/, rsync://mirror.us.mirhosting.net/ubuntu-releases/",mirror.us.mirhosting.net,20 Gbps,N/A
+United States,525 Gbps,Lancaster-Lebanon IU13,"https://mirrors.iu13.net/ubuntu-releases/, http://mirrors.iu13.net/ubuntu-releases/, rsync://mirrors.iu13.net/ubuntu-releases/",mirrors.iu13.net,20 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://southfront.mm.fcix.net/ubuntu-releases/, http://southfront.mm.fcix.net/ubuntu-releases/, rsync://southfront.mm.fcix.net/ubuntu-releases/",southfront.mm.fcix.net,20 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://coresite-atl.mm.fcix.net/ubuntu-releases/, http://coresite-atl.mm.fcix.net/ubuntu-releases/, rsync://coresite-atl.mm.fcix.net/ubuntu-releases/",coresite-atl.mm.fcix.net,10 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://forksystems.mm.fcix.net/ubuntu-releases/, http://forksystems.mm.fcix.net/ubuntu-releases/, rsync://forksystems.mm.fcix.net/ubuntu-releases/",forksystems.mm.fcix.net,10 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://insect.mm.fcix.net/ubuntu-releases/, http://insect.mm.fcix.net/ubuntu-releases/, rsync://insect.mm.fcix.net/ubuntu-releases/",insect.mm.fcix.net,10 Gbps,N/A
+United States,525 Gbps,Constant.com,"https://isos.ubuntu.mirror.constant.com/, http://isos.ubuntu.mirror.constant.com/",isos.ubuntu.mirror.constant.com,10 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://ix-denver.mm.fcix.net/ubuntu-releases/, http://ix-denver.mm.fcix.net/ubuntu-releases/, rsync://ix-denver.mm.fcix.net/ubuntu-releases/",ix-denver.mm.fcix.net,10 Gbps,N/A
+United States,525 Gbps,University of Arizona,"https://mirror.arizona.edu/ubuntu-releases/, http://mirror.arizona.edu/ubuntu-releases/, rsync://mirror.arizona.edu/ubuntu-releases/",mirror.arizona.edu,10 Gbps,N/A
+United States,525 Gbps,Old Dominion University,"https://mirror.cs.odu.edu/ubuntu-releases/, http://mirror.cs.odu.edu/ubuntu-releases/",mirror.cs.odu.edu,10 Gbps,N/A
+United States,525 Gbps,ETTE.biz,"https://mirror.ette.biz/ubuntu-releases/, http://mirror.ette.biz/ubuntu-releases/, rsync://mirror.ette.biz/ubuntu-releases/",mirror.ette.biz,10 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://mirror.fcix.net/ubuntu-releases/, http://mirror.fcix.net/ubuntu-releases/",mirror.fcix.net,10 Gbps,N/A
+United States,525 Gbps,Hoobly Classifieds,"https://ubuntu.mirrors.hoobly.com/, http://ubuntu.mirrors.hoobly.com/",ubuntu.mirrors.hoobly.com,10 Gbps,N/A
+United States,525 Gbps,Limestone Networks,"https://mirror.lstn.net/ubuntu-releases/, http://mirror.lstn.net/ubuntu-releases/, rsync://mirror.lstn.net/ubuntu-releases/",mirror.lstn.net,10 Gbps,N/A
+United States,525 Gbps,Pacific NorthWest National Lab,"https://mirror.pnl.gov/releases/, http://mirror.pnl.gov/releases/, rsync://mirror.pnl.gov/releases/",mirror.pnl.gov,10 Gbps,N/A
+United States,525 Gbps,University of Maryland,"https://mirror.umd.edu/ubuntu-iso/, http://mirror.umd.edu/ubuntu-iso/, rsync://mirror.umd.edu/ubuntu-iso/",mirror.umd.edu,10 Gbps,N/A
+United States,525 Gbps,"LeaseWeb USA, Inc","https://mirror.us.leaseweb.net/ubuntu-releases/, http://mirror.us.leaseweb.net/ubuntu-releases/, ftp://mirror.us.leaseweb.net/ubuntu-releases/, rsync://mirror.us.leaseweb.net/ubuntu-releases/",mirror.us.leaseweb.net,10 Gbps,N/A
+United States,525 Gbps,Bloomsburg University of Pennsylvania,"https://mirrors.bloomu.edu/ubuntu-releases/, http://mirrors.bloomu.edu/ubuntu-releases/, ftp://mirrors.bloomu.edu/ubuntu-releases/, rsync://mirrors.bloomu.edu/ubuntu-releases/",mirrors.bloomu.edu,10 Gbps,N/A
+United States,525 Gbps,Spartan Linux Users Group,"https://mirrors.egr.msu.edu/ubuntu-iso/, http://mirrors.egr.msu.edu/ubuntu-iso/",mirrors.egr.msu.edu,10 Gbps,N/A
+United States,525 Gbps,NetmanageIT,https://mirrors.netmanageit.com/ubuntu-releases/,mirrors.netmanageit.com,10 Gbps,N/A
+United States,525 Gbps,Rochester Institute of Technology,"https://mirrors.rit.edu/ubuntu-releases/, http://mirrors.rit.edu/ubuntu-releases/, ftp://mirrors.rit.edu/ubuntu-releases/",mirrors.rit.edu,10 Gbps,N/A
+United States,525 Gbps,US Internet,"http://mirrors.usinternet.com/ubuntu/releases/, rsync://mirrors.usinternet.com/ubuntu-releases/",mirrors.usinternet.com,10 Gbps,N/A
+United States,525 Gbps,xTom,"https://mirrors.xtom.com/ubuntu-releases/, http://mirrors.xtom.com/ubuntu-releases/, rsync://mirrors.xtom.com/ubuntu-releases/",mirrors.xtom.com,10 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://nnenix.mm.fcix.net/ubuntu-releases/, http://nnenix.mm.fcix.net/ubuntu-releases/, rsync://nnenix.mm.fcix.net/ubuntu-releases/",nnenix.mm.fcix.net,10 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://nocix.mm.fcix.net/ubuntu-releases/, http://nocix.mm.fcix.net/ubuntu-releases/, rsync://nocix.mm.fcix.net/ubuntu-releases/",nocix.mm.fcix.net,10 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://opencolo.mm.fcix.net/ubuntu-releases/, http://opencolo.mm.fcix.net/ubuntu-releases/, rsync://opencolo.mm.fcix.net/ubuntu-releases/",opencolo.mm.fcix.net,10 Gbps,N/A
+United States,525 Gbps,University of Utah,"http://ubuntu.cs.utah.edu/releases/, ftp://ubuntu.cs.utah.edu/ubuntu/releases/, rsync://ubuntu.cs.utah.edu/ubuntu-releases/",ubuntu.cs.utah.edu,10 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://solidrock.mm.fcix.net/ubuntu-releases/, http://solidrock.mm.fcix.net/ubuntu-releases/, rsync://solidrock.mm.fcix.net/ubuntu-releases/",solidrock.mm.fcix.net,10 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://volico.mm.fcix.net/ubuntu-releases/, http://volico.mm.fcix.net/ubuntu-releases/, rsync://volico.mm.fcix.net/ubuntu-releases/",volico.mm.fcix.net,10 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://ziply.mm.fcix.net/ubuntu-releases/, http://ziply.mm.fcix.net/ubuntu-releases/, rsync://ziply.mm.fcix.net/ubuntu-releases/",ziply.mm.fcix.net,10 Gbps,N/A
+United States,525 Gbps,GigeNET,"https://mirrors.gigenet.com/ubuntucd/, http://mirrors.gigenet.com/ubuntucd/",mirrors.gigenet.com,4 Gbps,N/A
+United States,525 Gbps,RustyTel,http://mirror.rustytel.net/ubuntu-releases/,mirror.rustytel.net,2 Gbps,N/A
+United States,525 Gbps,Kernel.org,"http://mirrors.us.kernel.org/ubuntu-releases/, ftp://mirrors.us.kernel.org/ubuntu-releases/, rsync://mirrors.us.kernel.org/ubuntu-releases/",mirrors.us.kernel.org,2 Gbps,N/A
+United States,525 Gbps,OSU Open Source Lab,"https://ubuntu.osuosl.org/releases/, http://ubuntu.osuosl.org/releases/, ftp://ubuntu.osuosl.org/pub/ubuntu-releases/, rsync://ubuntu.osuosl.org/ubuntu-releases/",ubuntu.osuosl.org,2 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://abqix.mm.fcix.net/ubuntu-releases/, http://abqix.mm.fcix.net/ubuntu-releases/, rsync://abqix.mm.fcix.net/ubuntu-releases/",abqix.mm.fcix.net,1 Gbps,N/A
+United States,525 Gbps,FCIX/CodingFlyBoy MicroMirror,"https://codingflyboy.mm.fcix.net/ubuntu-releases/, http://codingflyboy.mm.fcix.net/ubuntu-releases/, rsync://codingflyboy.mm.fcix.net/ubuntu-releases/",codingflyboy.mm.fcix.net,1 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://coresite.mm.fcix.net/ubuntu-releases/, http://coresite.mm.fcix.net/ubuntu-releases/, rsync://coresite.mm.fcix.net/ubuntu-releases/",coresite.mm.fcix.net,1 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://irltoolkit.mm.fcix.net/ubuntu-releases/, http://irltoolkit.mm.fcix.net/ubuntu-releases/, rsync://irltoolkit.mm.fcix.net/ubuntu-releases/",irltoolkit.mm.fcix.net,1 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://lolhost.mm.fcix.net/ubuntu-releases/, http://lolhost.mm.fcix.net/ubuntu-releases/, rsync://lolhost.mm.fcix.net/ubuntu-releases/",lolhost.mm.fcix.net,1 Gbps,N/A
+United States,525 Gbps,Michigan Tech Linux Users' Group,"http://lug.mtu.edu/ubuntu-iso/, ftp://lug.mtu.edu/ubuntu-iso/, rsync://lug.mtu.edu/ubuntu-iso/",lug.mtu.edu,1 Gbps,N/A
+United States,525 Gbps,Clarkson University,"https://mirror.clarkson.edu/ubuntu-releases/, http://mirror.clarkson.edu/ubuntu-releases/, rsync://mirror.clarkson.edu/ubuntu-releases/",mirror.clarkson.edu,1 Gbps,N/A
+United States,525 Gbps,Cogent Communications,"http://mirror.cogentco.com/pub/linux/ubuntu-releases/, rsync://mirror.cogentco.com/ubuntu-releases/",mirror.cogentco.com,1 Gbps,N/A
+United States,525 Gbps,James Madison University Department of Computer Science,"https://mirror.cs.jmu.edu/pub/ubuntu-iso/, http://mirror.cs.jmu.edu/pub/ubuntu-iso/",mirror.cs.jmu.edu,1 Gbps,N/A
+United States,525 Gbps,Freakinbananas,"http://mirror.freakinbananas.xyz/releases/, rsync://mirror.freakinbananas.xyz/ubuntu-releases/",mirror.freakinbananas.xyz,1 Gbps,N/A
+United States,525 Gbps,MetroCast Cablevision,http://mirror.metrocast.net/ubuntu-releases/,mirror.metrocast.net,1 Gbps,N/A
+United States,525 Gbps,MrJester,"https://mirror.mrjester.net/ubuntu/release/, http://mirror.mrjester.net/ubuntu/release/, rsync://mirror.mrjester.net/ubuntu-releases/",mirror.mrjester.net,1 Gbps,N/A
+United States,525 Gbps,Nexcess,"https://mirror.nexcess.net/ubuntu-releases/, http://mirror.nexcess.net/ubuntu-releases/, ftp://mirror.nexcess.net/ubuntu-releases/",mirror.nexcess.net,1 Gbps,N/A
+United States,525 Gbps,Steadfast Networks,"https://mirror.steadfastnet.com/ubuntu-releases/, http://mirror.steadfastnet.com/ubuntu-releases/, rsync://mirror.steadfastnet.com/ubuntu-releases/",mirror.steadfastnet.com,1 Gbps,N/A
+United States,525 Gbps,Team Cymru,"http://mirror.team-cymru.com/ubuntu-releases/, ftp://mirror.team-cymru.com/ubuntu-releases/, rsync://mirror.team-cymru.com/ubuntu-releases/",mirror.team-cymru.com,1 Gbps,N/A
+United States,525 Gbps,University of Oregon,"http://mirror.uoregon.edu/ubuntu-releases/, ftp://mirror.uoregon.edu/ubuntu-releases/",mirror.uoregon.edu,1 Gbps,N/A
+United States,525 Gbps,Kamatera Inc.,http://mirror.us-ny2.kamatera.com/ubuntu-releases/,mirror.us-ny2.kamatera.com,1 Gbps,N/A
+United States,525 Gbps,Kamatera Inc.,http://mirror.us-sc.kamatera.com/ubuntu-releases/,mirror.us-sc.kamatera.com,1 Gbps,N/A
+United States,525 Gbps,Kamatera Inc.,http://mirror.us-tx.kamatera.com/ubuntu-releases/,mirror.us-tx.kamatera.com,1 Gbps,N/A
+United States,525 Gbps,Wayne State University,"https://mirror.wayne.edu/ubuntu/releases/, http://mirror.wayne.edu/ubuntu/releases/, ftp://mirror.wayne.edu/ubuntu/releases/",mirror.wayne.edu,1 Gbps,N/A
+United States,525 Gbps,Bay Mills Community College,https://mirrors.bmcc.edu/ubuntu-isos/,mirrors.bmcc.edu,1 Gbps,N/A
+United States,525 Gbps,Portland State University,"https://mirrors.cat.pdx.edu/ubuntu-releases/, http://mirrors.cat.pdx.edu/ubuntu-releases/, rsync://mirrors.cat.pdx.edu/ubuntu-releases/",mirrors.cat.pdx.edu,1 Gbps,N/A
+United States,525 Gbps,GigeNET,"https://mirrors.gigenet.com/ubuntu-releases/, http://mirrors.gigenet.com/ubuntu-releases/",mirrors.gigenet.com,1 Gbps,N/A
+United States,525 Gbps,MTU Linux Users Group,"https://mirrors.lug.mtu.edu/ubuntu-releases/, http://mirrors.lug.mtu.edu/ubuntu-releases/, ftp://mirrors.lug.mtu.edu/ubuntu-releases/, rsync://mirrors.lug.mtu.edu/ubuntu-releases/",mirrors.lug.mtu.edu,1 Gbps,N/A
+United States,525 Gbps,MIT SIPB,"https://mirrors.mit.edu/ubuntu-releases/, http://mirrors.mit.edu/ubuntu-releases/, rsync://mirrors.mit.edu/ubuntu-releases/",mirrors.mit.edu,1 Gbps,N/A
+United States,525 Gbps,Open Computing Facility at UC Berkeley,"https://mirrors.ocf.berkeley.edu/ubuntu-releases/, http://mirrors.ocf.berkeley.edu/ubuntu-releases/, ftp://mirrors.ocf.berkeley.edu/ubuntu-releases/, rsync://mirrors.ocf.berkeley.edu/ubuntu-releases/",mirrors.ocf.berkeley.edu,1 Gbps,N/A
+United States,525 Gbps,Sarakas,"https://mirrors.sarak.as/ubuntu-releases/, http://mirrors.sarak.as/ubuntu-releases/, ftp://mirrors.sarak.as/ubuntu-releases/",mirrors.sarak.as,1 Gbps,N/A
+United States,525 Gbps,Xmission,"https://mirrors.xmission.com/ubuntu-cd/, http://mirrors.xmission.com/ubuntu-cd/, ftp://mirrors.xmission.com/ubuntu-cd/",mirrors.xmission.com,1 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://mnvoip.mm.fcix.net/ubuntu-releases/, http://mnvoip.mm.fcix.net/ubuntu-releases/, rsync://mnvoip.mm.fcix.net/ubuntu-releases/",mnvoip.mm.fcix.net,1 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://nullroute.mm.fcix.net/ubuntu-releases/, http://nullroute.mm.fcix.net/ubuntu-releases/, rsync://nullroute.mm.fcix.net/ubuntu-releases/",nullroute.mm.fcix.net,1 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://ohioix.mm.fcix.net/ubuntu-releases/, http://ohioix.mm.fcix.net/ubuntu-releases/, rsync://ohioix.mm.fcix.net/ubuntu-releases/",ohioix.mm.fcix.net,1 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://paducahix.mm.fcix.net/ubuntu-releases/, http://paducahix.mm.fcix.net/ubuntu-releases/, rsync://paducahix.mm.fcix.net/ubuntu-releases/",paducahix.mm.fcix.net,1 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://ryamer.mm.fcix.net/ubuntu-releases/, http://ryamer.mm.fcix.net/ubuntu-releases/, rsync://ryamer.mm.fcix.net/ubuntu-releases/",ryamer.mm.fcix.net,1 Gbps,N/A
+United States,525 Gbps,Fremont Cabal Internet Exchange,"https://veronanetworks.mm.fcix.net/ubuntu-releases/, http://veronanetworks.mm.fcix.net/ubuntu-releases/, rsync://veronanetworks.mm.fcix.net/ubuntu-releases/",veronanetworks.mm.fcix.net,1 Gbps,N/A
+United States,525 Gbps,Georgia Tech. Software Library,"http://www.gtlib.gatech.edu/pub/ubuntu-releases/, ftp://ftp.gtlib.gatech.edu/pub/ubuntu-releases/, rsync://rsync.gtlib.gatech.edu/ubuntu-releases/","rsync.gtlib.gatech.edu, www.gtlib.gatech.edu, ftp.gtlib.gatech.edu",1 Gbps,N/A
+United States,525 Gbps,Michigan Tech Linux Users Group,"http://lug.mtu.edu/ubuntu-releases/, ftp://lug.mtu.edu/ubuntu-releases/, rsync://lug.mtu.edu/ubuntu-releases/",lug.mtu.edu,100 Mbps,N/A
+United States,525 Gbps,Washington State University,http://mirrors.vcea.wsu.edu/ubuntu-releases/,mirrors.vcea.wsu.edu,100 Mbps,N/A
+United States,525 Gbps,Mirror.cs.umn.edu,http://mirror.cs.umn.edu/ubuntu-releases/,mirror.cs.umn.edu,10 Mbps,N/A
+United States,525 Gbps,"CERIAS, Purdue University","http://osmirrors.cerias.purdue.edu/pub/ubuntu-releases/, ftp://osmirrors.cerias.purdue.edu/pub/ubuntu-releases/",osmirrors.cerias.purdue.edu,10 Mbps,N/A
 Viet Nam,2 Gbps,MeowSMP.net,"https://mirror.meowsmp.net/UbuntuReleases/, http://mirror.meowsmp.net/UbuntuReleases/, rsync://mirror.meowsmp.net/ubuntucd/",mirror.meowsmp.net,1 Gbps,N/A
 Viet Nam,2 Gbps,vHost,"https://vn-mirrors.vhost.vn/ubuntu-release/, http://vn-mirrors.vhost.vn/ubuntu-release/",vn-mirrors.vhost.vn,1 Gbps,N/A
 Viet Nam,2 Gbps,clearsky.vn,http://mirror.clearsky.vn/ubuntu-releases/,mirror.clearsky.vn,100 Mbps,N/A
