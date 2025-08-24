@@ -458,8 +458,8 @@
                 "rsync://rsync.las.ic.unicamp.br/ubuntu-releases/"
             ],
             "hostnames": [
-                "www.las.ic.unicamp.br",
                 "ftp.las.ic.unicamp.br",
+                "www.las.ic.unicamp.br",
                 "rsync.las.ic.unicamp.br"
             ],
             "mirror_speed": "1 Gbps",
@@ -608,8 +608,8 @@
                 "rsync://muug.ca/ubuntu-releases/"
             ],
             "hostnames": [
-                "muug.ca",
-                "ftp.muug.ca"
+                "ftp.muug.ca",
+                "muug.ca"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -624,8 +624,8 @@
                 "rsync://yxeux.mm.fcix.net/ubuntu-releases/"
             ],
             "hostnames": [
-                "yxeux.mm.fcix.net",
-                "yxeix.mm.fcix.net"
+                "yxeix.mm.fcix.net",
+                "yxeux.mm.fcix.net"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -1312,9 +1312,9 @@
                 "rsync://rsync.nic.funet.fi/ftp/pub/mirrors/releases.ubuntu.com/"
             ],
             "hostnames": [
+                "rsync.nic.funet.fi",
                 "www.nic.funet.fi",
-                "ftp.funet.fi",
-                "rsync.nic.funet.fi"
+                "ftp.funet.fi"
             ],
             "mirror_speed": "20 Gbps",
             "status": "N/A"
@@ -1493,8 +1493,8 @@
                 "rsync://ftp.lip6.fr/Ubuntu/releases/"
             ],
             "hostnames": [
-                "www-ftp.lip6.fr",
-                "ftp.lip6.fr"
+                "ftp.lip6.fr",
+                "www-ftp.lip6.fr"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -1760,8 +1760,8 @@
                 "rsync://rsync.uni-bayreuth.de/ubuntu-releases/"
             ],
             "hostnames": [
-                "ftp.uni-bayreuth.de",
-                "rsync.uni-bayreuth.de"
+                "rsync.uni-bayreuth.de",
+                "ftp.uni-bayreuth.de"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -2278,8 +2278,8 @@
                 "rsync://mirrors.zagrio.net/ubuntu-releases/"
             ],
             "hostnames": [
-                "releases.ubuntu.mirrors.zagrio.net",
-                "mirrors.zagrio.net"
+                "mirrors.zagrio.net",
+                "releases.ubuntu.mirrors.zagrio.net"
             ],
             "mirror_speed": "100 Gbps",
             "status": "N/A"
@@ -2584,7 +2584,7 @@
         },
         {
             "country": "Japan",
-            "country_speed": "175 Gbps",
+            "country_speed": "165 Gbps",
             "mirror_name": "ICSCoE",
             "protocols": [
                 "https://ftp.udx.icscoe.jp/Linux/ubuntu-releases/",
@@ -2599,7 +2599,7 @@
         },
         {
             "country": "Japan",
-            "country_speed": "175 Gbps",
+            "country_speed": "165 Gbps",
             "mirror_name": "hashy10G",
             "protocols": [
                 "https://mirror.hashy0917.net/ubuntu-releases/",
@@ -2613,20 +2613,7 @@
         },
         {
             "country": "Japan",
-            "country_speed": "175 Gbps",
-            "mirror_name": "G4T1PR0",
-            "protocols": [
-                "http://archive.g4t1.pro/ubuntu-releases/"
-            ],
-            "hostnames": [
-                "archive.g4t1.pro"
-            ],
-            "mirror_speed": "10 Gbps",
-            "status": "N/A"
-        },
-        {
-            "country": "Japan",
-            "country_speed": "175 Gbps",
+            "country_speed": "165 Gbps",
             "mirror_name": "RIKEN",
             "protocols": [
                 "https://ftp.riken.jp/Linux/ubuntu-releases/",
@@ -2642,7 +2629,7 @@
         },
         {
             "country": "Japan",
-            "country_speed": "175 Gbps",
+            "country_speed": "165 Gbps",
             "mirror_name": "Tsukuba WIDE",
             "protocols": [
                 "https://ftp.tsukuba.wide.ad.jp/Linux/ubuntu-releases/",
@@ -2657,7 +2644,7 @@
         },
         {
             "country": "Japan",
-            "country_speed": "175 Gbps",
+            "country_speed": "165 Gbps",
             "mirror_name": "Yamagata University",
             "protocols": [
                 "https://ftp.yz.yamagata-u.ac.jp/pub/linux/ubuntu/releases/",
@@ -2672,7 +2659,7 @@
         },
         {
             "country": "Japan",
-            "country_speed": "175 Gbps",
+            "country_speed": "165 Gbps",
             "mirror_name": "KuronekoServer",
             "protocols": [
                 "https://mirrors.krnk.org/ubuntu-releases/",
@@ -2686,7 +2673,7 @@
         },
         {
             "country": "Japan",
-            "country_speed": "175 Gbps",
+            "country_speed": "165 Gbps",
             "mirror_name": "JAIST",
             "protocols": [
                 "http://ftp.jaist.ac.jp/pub/Linux/ubuntu-releases/",
@@ -2701,7 +2688,7 @@
         },
         {
             "country": "Japan",
-            "country_speed": "175 Gbps",
+            "country_speed": "165 Gbps",
             "mirror_name": "UNIVERSITY OF TOYAMA with Ubuntu Japanese LoCo",
             "protocols": [
                 "http://ubuntutym2.u-toyama.ac.jp/ubuntu/"
@@ -2714,7 +2701,7 @@
         },
         {
             "country": "Japan",
-            "country_speed": "175 Gbps",
+            "country_speed": "165 Gbps",
             "mirror_name": "TI Mirrors Japan - Ubuntu CD Images",
             "protocols": [
                 "https://jp.mirror.coganng.com/ubuntu-cdimage/",
@@ -2858,8 +2845,8 @@
                 "rsync://dsync.krfoss.org/ubuntu-releases/"
             ],
             "hostnames": [
-                "dsync.krfoss.org",
-                "mirror.krfoss.org"
+                "mirror.krfoss.org",
+                "dsync.krfoss.org"
             ],
             "mirror_speed": "2 Gbps",
             "status": "N/A"
@@ -3063,8 +3050,8 @@
                 "rsync://mirror.root.lu/Ubuntu/ubuntu-releases/"
             ],
             "hostnames": [
-                "mirror.root.lu",
-                "ubuntu.mirror.root.lu"
+                "ubuntu.mirror.root.lu",
+                "mirror.root.lu"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -3805,8 +3792,8 @@
                 "rsync://rsync.icm.edu.pl/pub/Linux/ubuntu-releases/"
             ],
             "hostnames": [
-                "ftp.icm.edu.pl",
-                "rsync.icm.edu.pl"
+                "rsync.icm.edu.pl",
+                "ftp.icm.edu.pl"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -4481,8 +4468,8 @@
                 "ftp://ftp.saix.net/pub/linux/distributions/Ubuntu/ubuntu-releases/"
             ],
             "hostnames": [
-                "ftp.saix.net",
-                "ubuntu.saix.net"
+                "ubuntu.saix.net",
+                "ftp.saix.net"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -4511,8 +4498,8 @@
                 "rsync://rsync.rediris.es/sites/releases.ubuntu.com/"
             ],
             "hostnames": [
-                "ftp.rediris.es",
-                "rsync.rediris.es"
+                "rsync.rediris.es",
+                "ftp.rediris.es"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -4601,8 +4588,8 @@
                 "rsync://rsync.rediris.es/ftp/mirror/ubuntu-releases/"
             ],
             "hostnames": [
-                "ftp.rediris.es",
-                "rsync.rediris.es"
+                "rsync.rediris.es",
+                "ftp.rediris.es"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -4885,8 +4872,8 @@
                 "rsync://ftp.ubuntu-tw.org/ubuntu-releases/"
             ],
             "hostnames": [
-                "ftp.ubuntu-tw.org",
-                "ftp.ubuntu-tw.net"
+                "ftp.ubuntu-tw.net",
+                "ftp.ubuntu-tw.org"
             ],
             "mirror_speed": "4 Gbps",
             "status": "N/A"
@@ -5221,9 +5208,9 @@
                 "rsync://rsync.releases.ubuntu.com/ubuntu-releases/"
             ],
             "hostnames": [
+                "releases.ubuntu.com",
                 "ftp.releases.ubuntu.com",
-                "rsync.releases.ubuntu.com",
-                "releases.ubuntu.com"
+                "rsync.releases.ubuntu.com"
             ],
             "mirror_speed": "20 Gbps",
             "status": "N/A"
@@ -5325,8 +5312,8 @@
             ],
             "hostnames": [
                 "rsync.mirrorservice.org",
-                "ftp.mirrorservice.org",
-                "www.mirrorservice.org"
+                "www.mirrorservice.org",
+                "ftp.mirrorservice.org"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -5459,8 +5446,8 @@
                 "rsync://ubuntu.mirrors.uk2.net/releases/"
             ],
             "hostnames": [
-                "ubuntu.mirrors.uk2.net",
-                "releases.ubuntu.mirrors.uk2.net"
+                "releases.ubuntu.mirrors.uk2.net",
+                "ubuntu.mirrors.uk2.net"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -6635,9 +6622,9 @@
                 "rsync://rsync.gtlib.gatech.edu/ubuntu-releases/"
             ],
             "hostnames": [
-                "rsync.gtlib.gatech.edu",
+                "www.gtlib.gatech.edu",
                 "ftp.gtlib.gatech.edu",
-                "www.gtlib.gatech.edu"
+                "rsync.gtlib.gatech.edu"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -6768,6 +6755,6 @@
             "status": "N/A"
         }
     ],
-    "count": 462,
-    "last_updated": "2025-08-24T00:10:35.468322+00:00"
+    "count": 461,
+    "last_updated": "2025-08-24T08:33:50.241386+00:00"
 }
